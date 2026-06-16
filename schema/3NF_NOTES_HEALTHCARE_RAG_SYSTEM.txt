@@ -1,0 +1,123 @@
+3NF Notes — Healthcare RAG System Database (Updated to Final ER Diagram)
+
+All tables in the schema are designed to satisfy Third Normal Form (3NF). 
+Each table ensures:
+
+1. No repeating groups (1NF)
+2. No partial dependencies (2NF)
+3. No transitive dependencies (3NF)
+
+---
+
+1. Source(source_id, name, type, url, source_reliability)
+   - PK: source_id
+   - Functional Dependencies:
+       source_id → name, type, url, source_reliability
+   - ✅ 3NF
+
+---
+
+2. Document(document_id, title, publication_date, source_id, document_type, medical_speciality)
+   - PK: document_id
+   - FDs:
+       document_id → title, publication_date, source_id, document_type, medical_speciality
+   - ✅ 3NF
+
+---
+
+3. Section(section_id, section_title, document_id)
+   - PK: section_id
+   - FDs:
+       section_id → section_title, document_id
+   - ✅ 3NF
+
+---
+
+4. Chunk(chunk_id, chunk_text, chunk_index, section_id)
+   - PK: chunk_id
+   - FDs:
+       chunk_id → chunk_text, chunk_index, section_id
+   - ✅ 3NF
+
+---
+
+5. Embedding(embedding_id, chunk_id, vector)
+   - PK: embedding_id
+   - FDs:
+       embedding_id → chunk_id, vector
+       chunk_id → embedding_id, vector   (due to 1:1 relationship)
+   - ✅ 3NF
+
+---
+
+6. Topic(topic_id, topic_name)
+   - PK: topic_id
+   - FDs:
+       topic_id → topic_name
+   - ✅ 3NF
+
+---
+
+7. Chunk_Topic(chunk_id, topic_id)
+   - Composite PK: (chunk_id, topic_id)
+   - FDs:
+       (chunk_id, topic_id) → no non-key attributes
+   - Represents M:N relationship between Chunk and Topic
+   - ✅ 3NF
+
+---
+
+8. Query(query_id, query_text, timestamp)
+   - PK: query_id
+   - FDs:
+       query_id → query_text, timestamp
+   - ✅ 3NF
+
+---
+
+9. Response(response_id, query_id, generated_answer, confidence_score)
+   - PK: response_id
+   - FDs:
+       response_id → query_id, generated_answer, confidence_score
+       query_id → response_id, generated_answer, confidence_score   (1:1 relationship)
+   - ✅ 3NF
+
+---
+
+10. Retrieved_Chunk(query_id, chunk_id, relevance_score)
+    - Composite PK: (query_id, chunk_id)
+    - FDs:
+        (query_id, chunk_id) → relevance_score
+    - Represents M:N retrieval relationship between Query and Chunk
+    - ✅ 3NF
+
+---
+
+11. Evaluation(evaluation_id, response_id, factuality_score, consistency_score, notes, response_timestamp)
+    - PK: evaluation_id
+    - FDs:
+        evaluation_id → response_id, factuality_score, consistency_score, notes, response_timestamp
+        response_id → evaluation_id, factuality_score, consistency_score, notes, response_timestamp (1:1 relationship)
+    - ✅ 3NF
+
+---
+
+Conclusion:
+
+- All tables satisfy 3NF requirements:
+  ✔ Every non-key attribute depends only on the primary key  
+  ✔ No partial dependencies exist  
+  ✔ No transitive dependencies exist  
+
+- M:N relationships are correctly decomposed using junction tables:
+  - Chunk_Topic
+  - Retrieved_Chunk
+
+- 1:1 relationships are explicitly captured using functional dependencies:
+  - Chunk ↔ Embedding
+  - Query ↔ Response
+  - Response ↔ Evaluation
+
+Thus, the schema is fully normalized up to Third Normal Form (3NF) and ensures minimal redundancy and maximum data integrity.
+
+Prepared for Milestone 1 — Schema Design and ER Modeling
