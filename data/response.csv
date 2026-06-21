@@ -1,0 +1,71 @@
+﻿response_id,query_id,generated_answer,confidence_score
+1,1,"WHO states dengue symptoms include fever, headache, and nausea.",0.95
+2,2,COVID-19 vaccines significantly reduce severe illness risk.,0.93
+3,3,Diabetes management includes monitoring blood sugar levels.,0.91
+4,4,Malaria is transmitted through infected mosquito bites.,0.94
+5,5,Common vaccine side effects include fever and fatigue.,0.89
+6,6,"Asthma symptoms include wheezing, coughing, and breathing difficulty.",0.93
+7,7,Tuberculosis spreads through airborne droplets released during coughing or sneezing.,0.95
+8,8,"Heart disease risk increases with smoking, poor diet, and lack of exercise.",0.92
+9,9,Obesity prevention includes healthy eating and regular physical activity.,0.91
+10,10,"Stroke warning signs include numbness, confusion, and speech difficulty.",0.96
+11,11,"Pneumonia treatment may include antibiotics, rest, and hydration.",0.9
+12,12,Common mental health disorders include anxiety and depression.,0.89
+13,13,Vaccines reduce disease spread and improve public health outcomes.,0.94
+14,14,Hypertension symptoms may include headaches and dizziness.,0.88
+15,15,Balanced nutrition supports immune function and disease prevention.,0.92
+16,16,"Fever after a mosquito bite may indicate infections such as dengue or malaria, especially in tropical regions.",0.91
+17,17,Chronic stress can contribute to increased blood pressure by affecting heart rate and blood vessel constriction.,0.89
+18,18,Asthma symptoms often worsen at night due to airway inflammation and environmental triggers.,0.93
+19,19,Poorly controlled diabetes may damage kidneys over time and increase the risk of kidney disease.,0.94
+20,20,"Blood pressure may remain elevated after exercise because of stress, diet, or underlying hypertension.",0.82
+21,21,"Chest pain after exercise may be related to muscle strain, asthma, or cardiovascular conditions.",0.8
+22,22,Smoking can worsen asthma symptoms by irritating and inflaming the airways.,0.95
+23,23,"Persistent fatigue despite adequate sleep may be associated with stress, anemia, diabetes, or mental health conditions.",0.83
+24,24,Obesity significantly increases the risk of developing type 2 diabetes and cardiovascular disease.,0.94
+25,25,"Untreated hypertension can increase the risk of stroke, kidney disease, and heart attack.",0.97
+26,26,Persistent fever after COVID-19 infection may require medical evaluation to rule out complications.,0.79
+27,27,"Breathlessness at night may occur in asthma, heart disease, or respiratory infections.",0.88
+28,28,Poor sleep quality can negatively affect mental health and increase anxiety or stress levels.,0.92
+29,29,"Chest pain is not always heart-related and may also result from muscular, respiratory, or digestive issues.",0.84
+30,30,Dizziness in hypertension may occur due to sudden blood pressure fluctuations or medication effects.,0.81
+31,31,"Fever after travelling may indicate infectious diseases such as malaria, dengue, or influenza.",0.9
+32,32,"Chest pain during running may be caused by overexertion, asthma, or cardiovascular conditions.",0.83
+33,33,Severe headache after a mosquito bite may require medical evaluation for possible dengue infection.,0.91
+34,34,Stress hormones can temporarily increase blood sugar levels in some individuals.,0.85
+35,35,"Sudden dizziness may result from dehydration, blood pressure changes, or low blood sugar.",0.78
+36,36,High blood pressure can become dangerous over time if not properly monitored and treated.,0.93
+37,37,A cough lasting more than two weeks may require evaluation for respiratory infections or chronic lung disease.,0.88
+38,38,Excessive thirst may occur in dehydration or uncontrolled diabetes.,0.87
+39,39,Severe asthma attacks can become life threatening if breathing becomes significantly restricted.,0.96
+40,40,"Nighttime breathing difficulty may occur in asthma, sleep apnea, or respiratory disease.",0.84
+41,41,Vaccines may cause mild fever because the immune system is responding to the vaccine.,0.95
+42,42,Long-term diabetes can damage blood vessels in the eyes and increase vision problems.,0.94
+43,43,"Low blood pressure symptoms may include dizziness, fainting, and weakness.",0.82
+44,44,"A rapid heartbeat may be caused by stress, anxiety, dehydration, or heart rhythm problems.",0.8
+45,45,"Chest tightness after exercise may occur due to asthma, muscle strain, or cardiovascular issues.",0.86
+46,46,Smoking is strongly associated with increased risk of lung cancer and respiratory disease.,0.98
+47,47,"Unexpected weight loss may occur in infections, diabetes, thyroid disorders, or cancer.",0.83
+48,48,"Anxiety attacks may involve rapid heartbeat, sweating, chest tightness, and fear.",0.91
+49,49,"Heart health improves with exercise, healthy diet, reduced smoking, and stress management.",0.95
+50,50,Persistently high blood sugar may indicate uncontrolled diabetes or poor insulin regulation.,0.92
+51,51,Obesity can increase breathing difficulty by placing additional strain on the respiratory system.,0.89
+52,52,Persistent cough with fever may indicate respiratory infection or pneumonia.,0.9
+53,53,Reducing salt intake and eating fruits and vegetables may help lower blood pressure.,0.94
+54,54,Stress can worsen asthma symptoms in some individuals by triggering airway tightening.,0.88
+55,55,Pneumonia may cause chest pain due to inflammation affecting the lungs and breathing.,0.91
+56,56,Mental stress may negatively affect cardiovascular health and blood pressure regulation.,0.87
+57,57,"Untreated diabetes can lead to kidney damage, vision loss, and cardiovascular complications.",0.96
+58,58,"Shortness of breath may result from asthma, pneumonia, anxiety, or heart disease.",0.86
+59,59,High cholesterol may increase the risk of blocked arteries and stroke.,0.92
+60,60,"Weakness after fever may occur because of dehydration, infection recovery, or fatigue.",0.81
+61,61,Weight reduction through exercise and healthy diet may help reverse obesity-related risks.,0.9
+62,62,Dehydration can increase heart rate because the body compensates for reduced fluid volume.,0.85
+63,63,"Severe malaria symptoms may include high fever, confusion, breathing difficulty, and fatigue.",0.97
+64,64,"Anxiety attacks may occur suddenly due to stress, emotional triggers, or panic disorders.",0.89
+65,65,Smoking can contribute to increased blood pressure and cardiovascular disease risk.,0.93
+66,66,"Early diabetes symptoms may include excessive thirst, fatigue, and frequent urination.",0.94
+67,67,Dengue spreads through bites from infected Aedes mosquitoes.,0.96
+68,68,"Constant fatigue may be associated with stress, anemia, infection, or poor sleep.",0.82
+69,69,"Severe asthma symptoms include wheezing, chest tightness, and difficulty breathing.",0.95
+70,70,Lack of sleep may negatively affect blood pressure and cardiovascular health.,0.88
