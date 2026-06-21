@@ -1,0 +1,6 @@
+﻿source_id,name,type,url,source_reliability
+1,WHO,Global Health Organization,https://www.who.int,0.99
+2,CDC,Government Health Agency,https://www.cdc.gov,0.97
+3,NIH,Medical Research Organization,https://www.nih.gov,0.96
+4,Mayo Clinic,Healthcare Provider,https://www.mayoclinic.org,0.93
+5,MedlinePlus,Medical Information Service,https://medlineplus.gov,0.9

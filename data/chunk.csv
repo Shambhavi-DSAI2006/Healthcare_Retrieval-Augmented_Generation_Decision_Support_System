@@ -1,0 +1,1779 @@
+chunk_id,section_id,chunk_text,chunk_index
+1,1,"Dengue symptoms include fever, headache, nausea, and muscle pain.",1
+2,1,Severe dengue may cause internal bleeding and shock.,2
+3,1,Mosquito control helps prevent dengue transmission.,3
+4,1,COVID-19 vaccines reduce severe illness and hospitalization.,4
+5,1,Vaccination programs improve public health outcomes.,5
+6,1,Common vaccine side effects include fatigue and fever.,6
+7,1,Diabetes management requires monitoring blood glucose levels.,7
+8,1,Healthy diet and regular exercise are important for treatment.,8
+9,1,Insulin therapy may be necessary for some patients.,9
+10,1,Malaria spreads through infected mosquito bites.,10
+11,1,Antimalarial medications help control infection.,11
+12,1,Preventive mosquito nets reduce malaria transmission.,12
+13,1,Hypertension increases the risk of heart disease and stroke.,13
+14,1,Reducing salt intake and exercising regularly can help manage blood pressure.,14
+15,1,Asthma causes inflammation of the airways and difficulty breathing.,15
+16,1,"Common triggers include smoke, dust, and pollen.",16
+17,1,Inhalers help control asthma symptoms.,17
+18,1,"Stroke symptoms include sudden numbness, confusion, and difficulty speaking.",18
+19,1,Early treatment improves survival rates and reduces disability.,19
+20,1,Nutrition plays an important role in maintaining health.,20
+21,1,Balanced diets containing fruits and vegetables reduce disease risk.,21
+22,1,Mental health conditions such as anxiety and depression affect millions worldwide.,22
+23,1,Counseling and medication may help improve mental well-being.,23
+24,1,Cancer screening helps detect disease early and improves treatment outcomes.,24
+25,1,Regular screenings are recommended for high-risk individuals.,25
+26,1,Tuberculosis primarily affects the lungs and spreads through airborne droplets.,26
+27,1,Early diagnosis and antibiotic treatment improve recovery outcomes.,27
+28,1,"Obesity increases the risk of diabetes, hypertension, and heart disease.",28
+29,1,Balanced nutrition and regular exercise help maintain healthy body weight.,29
+30,1,"Pneumonia causes inflammation in the lungs and may result in cough, fever, and breathing difficulty.",30
+31,1,Vaccination reduces severe infection risk.,31
+32,1,Anxiety disorders affect emotional well-being and daily functioning.,32
+33,1,Therapy and medication may help manage symptoms.,33
+34,1,Heart disease is one of the leading causes of death worldwide.,34
+35,1,Smoking cessation and physical activity reduce cardiovascular risk.,35
+36,1,Tuberculosis primarily affects the lungs and spreads through airborne droplets released during coughing and sneezing.,36
+37,1,Early diagnosis and antibiotic treatment improve recovery outcomes and reduce transmission risk.,37
+38,1,"Obesity increases the risk of diabetes, hypertension, heart disease, and stroke.",38
+39,1,Healthy eating habits and regular physical activity help maintain a healthy body weight and reduce obesity-related complications.,39
+40,1,"Pneumonia causes inflammation in the lungs and may result in fever, cough, chest pain, and breathing difficulty.",40
+41,1,Vaccination and early medical treatment reduce severe infection risk.,41
+42,1,Heart disease is one of the leading causes of death worldwide.,42
+43,1,"Smoking cessation, healthy nutrition, physical activity, and blood pressure management improve cardiovascular health.",43
+44,1,Depression affects emotional well-being and daily functioning.,44
+45,1,"Counseling, therapy, medication, and social support may help manage symptoms and improve quality of life.",45
+46,1,Kidney disease may develop as a complication of diabetes and hypertension.,46
+47,1,Early screening and blood pressure control help reduce the risk of kidney failure.,47
+48,1,Regular physical activity improves both mental and physical health.,48
+49,1,"Exercise strengthens the cardiovascular system, improves mood, and reduces stress levels.",49
+50,1,Immunization programs reduce the spread of infectious diseases and strengthen community protection.,50
+51,1,Vaccines help the immune system recognize and fight harmful pathogens.,51
+52,1,Dehydration occurs when the body loses more fluids than it receives.,52
+53,1,Severe dehydration may require oral rehydration therapy or intravenous fluids.,53
+54,1,Lung cancer is strongly associated with smoking and exposure to harmful chemicals.,54
+55,1,Early detection improves treatment success and survival rates.,55
+56,1,"Anxiety disorders may cause excessive fear, nervousness, and difficulty concentrating.",56
+57,1,Psychological therapy and medication may help reduce symptoms.,57
+58,1,Chronic respiratory diseases affect breathing and lung function.,58
+59,1,"Air pollution, smoking, and occupational hazards increase respiratory disease risk.",59
+60,1,"Healthy nutrition includes balanced intake of fruits, vegetables, proteins, and whole grains.",60
+61,1,Nutritious diets reduce the risk of chronic diseases and improve overall health.,61
+62,1,Stroke occurs when blood supply to the brain is interrupted.,62
+63,1,"Warning signs include numbness, confusion, speech difficulty, and sudden weakness on one side of the body.",63
+64,1,Malnutrition weakens the immune system and increases vulnerability to infections.,64
+65,1,Children and older adults are particularly at risk of malnutrition-related complications.,65
+66,1,Asthma causes inflammation and narrowing of the airways.,66
+67,1,Inhalers and avoiding environmental triggers help manage asthma symptoms.,67
+68,1,"Vaccination campaigns have significantly reduced diseases such as polio, measles, and hepatitis.",68
+69,1,Public health programs continue to improve global vaccination coverage.,69
+70,1,COVID-19 spreads primarily through respiratory droplets and close contact.,70
+71,1,"Vaccination, hand hygiene, and ventilation reduce infection risk.",71
+72,1,Diabetes affects how the body regulates blood sugar levels.,72
+73,1,"Poorly controlled diabetes may lead to kidney disease, nerve damage, and vision problems.",73
+74,1,Hypertension often develops without noticeable symptoms.,74
+75,1,"Long-term high blood pressure increases the risk of heart attack, stroke, and kidney disease.",75
+76,1,"Mental health disorders affect thoughts, emotions, and behavior.",76
+77,1,Early intervention and treatment improve long-term mental health outcomes.,77
+78,1,Mosquito-borne diseases such as dengue and malaria remain major public health concerns in tropical regions.,78
+79,1,Preventive mosquito control reduces disease transmission.,79
+80,1,Public health education improves awareness of disease prevention and healthy lifestyles.,80
+81,1,Community outreach programs help reduce preventable illnesses.,81
+82,1,Antibiotic resistance occurs when bacteria become resistant to medicines previously used for treatment.,82
+83,1,Responsible antibiotic use helps slow resistance development.,83
+84,1,Cancer screening tests help detect disease during early stages when treatment is more effective.,84
+85,1,Regular screening is recommended for high-risk populations.,85
+86,1,Respiratory infections spread more easily in crowded environments with poor ventilation.,86
+87,1,Proper hygiene and vaccination reduce infection spread.,87
+88,1,Childhood immunization protects against several life-threatening diseases.,88
+89,1,Vaccination schedules are designed to maximize immune protection during development.,89
+90,1,Balanced diets rich in vitamins and minerals support immune function and healthy growth.,90
+91,1,Poor nutrition contributes to weakened immunity and chronic illness.,91
+92,1,"Smoking damages the lungs, blood vessels, and heart.",92
+93,1,Quitting smoking improves overall health and reduces disease risk over time.,93
+94,1,"Stress management techniques such as exercise, sleep, and relaxation improve emotional health.",94
+95,1,Chronic stress negatively affects physical and mental well-being.,95
+96,1,Most people with dengue have mild or no symptoms and will get better in 1–2 weeks.,96
+97,1,"Rarely, dengue can be severe and lead to death.",97
+98,1,"If symptoms occur, they usually begin 4–10 days after infection and last for 2–7 days.",98
+99,1,"Symptoms may include:
+
+high fever (40°C/104°F)
+severe headache
+pain behind the eyes
+muscle and joint pains
+nausea
+vomiting
+swollen glands
+rash.",99
+100,1,Individuals who are infected for the second time are at greater risk of severe dengue.,100
+101,1,"The symptoms of severe dengue often come after the fever has gone away and may include:
+
+severe abdominal pain
+persistent vomiting
+rapid breathing
+bleeding gums or nose 
+fatigue
+restlessness
+blood in vomit or stool
+being very thirsty
+pale and cold skin
+feeling weak.",101
+102,1,People with these severe symptoms should seek care immediately.,102
+103,1,"After recovery, people who have had dengue may experience fatigue for several weeks.",103
+104,1,The mosquitoes that spread dengue are active during the day.,104
+105,1,"To lower your risk of getting dengue, protect yourself from mosquito bites by using: 
+
+clothes that cover as much of your body as possible;
+mosquito nets, ideally sprayed with insect repellent, if sleeping during the day;
+window screens;
+mosquito repellents (containing DEET, Picaridin or IR3535); and
+coils and vaporizers.",105
+106,1,"To prevent mosquitoes from breeding:
+
+implement environmental management and modification practices to stop mosquitoes from accessing egg-laying habitats;
+dispose of solid waste properly and remove artificial habitats that can hold water;
+cover, empty and clean domestic water storage containers on a weekly basis; and
+apply appropriate insecticides to water storage outdoor containers.",106
+107,1,"If you get dengue, it’s important to:
+
+rest;
+drink plenty of liquids;
+use acetaminophen (paracetamol) for pain;
+avoid non-steroidal anti-inflammatory medication such as ibuprofen and aspirin; and
+watch for severe symptoms and contact your doctor as soon as possible if you notice any.",107
+108,1,"Currently, one vaccine (QDenga) is available and licensed in some countries.",108
+109,1,"However, it is recommended only for those aged 6–16 years in high transmission settings.",109
+110,1,Several additional vaccines are under evaluation.,110
+111,1,"The dengue virus is transmitted to humans through the bites of infected female mosquitoes, primarily the Aedes aegypti mosquito.",111
+112,1,"Other species within the Aedes genus can also act as vectors, but their contribution is normally secondary to Aedes aegypti.",112
+113,1,"After feeding on a DENV-infected person, the virus replicates in the mosquito midgut before disseminating to secondary tissues, including the salivary glands.",113
+114,1,The time it takes from ingesting the virus to actual transmission to a new host is termed the extrinsic incubation period (EIP).,114
+115,1,The EIP takes about 8–12 days when the ambient temperature is 25–28°C.,115
+116,1,"Variations in the EIP are not only influenced by ambient temperature but also by several other factors – such as the magnitude of daily temperature fluctuations, the virus genotype, and the initial viral concentration – which can also alter the time it takes for a mosquito to transmit the virus.",116
+117,1,"Once infectious, a mosquito can transmit the virus for the rest of its life.",117
+118,1,"Human-to-mosquito transmission
+Mosquitoes can become infected by people who are viremic with DENV.",118
+119,1,"This can be someone who has a symptomatic dengue infection, someone who is yet to have a symptomatic infection (those who are pre-symptomatic), and also someone who shows no signs of illness (those who are asymptomatic).",119
+120,1,"Human-to-mosquito transmission can occur up to 2 days before someone shows symptoms of the illness, and up to 2 days after the fever has resolved.",120
+121,1,"The risk of mosquito infection is positively associated with high viremia and high fever in the patient; conversely, high levels of DENV-specific antibodies are associated with a decreased risk of mosquito infection.",121
+122,1,"Most people are viremic for about 4–5 days, but viremia can last as long as 12 days.",122
+123,1,"Maternal transmission
+The primary mode of transmission of the DENV between humans involves mosquito vectors.",123
+124,1,"There is evidence, however, of the possibility of maternal transmission (i.",124
+125,1,from a pregnant mother to her baby).,125
+126,1,"At the same time, vertical transmission rates appear low, with the risk of vertical transmission seemingly linked to the timing of acquiring the dengue infection during pregnancy.",126
+127,1,"When a mother does have a dengue infection when she is pregnant, babies may suffer from pre-term birth, low birthweight and fetal distress.",127
+128,1,"Other transmission modes
+Rare cases of transmission via blood products, organ donation and transfusions have been recorded.",128
+129,1,"Similarly, transovarial transmission of the virus within mosquitoes has also been recorded.",129
+130,1,"Laboratory-based and point of care diagnostics are critical to control and manage dengue, yet global disparities in laboratory capabilities present significant challenges.",130
+131,1,"The diagnostic algorithms, testing strategies and test methodologies employed vary, depending on the capabilities of national laboratory systems.",131
+132,1,"The wide range of available tests – including nucleic acid amplification tests (NAATs), enzyme-linked immunosorbent assays (ELISAs) and rapid diagnostic tests (RDTs) –  vary significantly in quality and performance.",132
+133,1,"Laboratory testing for arboviruses can be accomplished through either direct detection methods such as virus isolation, molecular detection of nucleic acid or antigen testing, including rapid diagnostic tests (RDTs) within the first week of illness.",133
+134,1,"There is no specific treatment for dengue, although pain can be managed with medication such as paracetamol (acetaminophen).",134
+135,1,Non-steroidal anti-inflammatory medicines such as ibuprofen and aspirin should be avoided as they can increase the risk of bleeding.,135
+136,1,"For people with severe dengue, hospitalization is often necessary.",136
+137,1,"The most common early symptoms of malaria are fever, headache and chills.",137
+138,1,Symptoms usually start within 10–15 days of getting bitten by an infected mosquito.,138
+139,1,"Symptoms may be mild for some people, especially for those who have had a malaria infection before.",139
+140,1,"Because some malaria symptoms are not specific, getting tested early is important.",140
+141,1,Some types of malaria can cause severe illness and death.,141
+142,1,"Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk.",142
+143,1,"Severe symptoms include:
+
+extreme tiredness and fatigue 
+impaired consciousness
+multiple convulsions
+difficulty breathing
+dark or bloody urine
+jaundice (yellowing of the eyes and skin) 
+abnormal bleeding.",143
+144,1,People with severe symptoms should get emergency care right away.,144
+145,1,Getting treatment early for mild malaria can stop the infection from becoming severe.,145
+146,1,Malaria infection during pregnancy can also cause premature delivery or delivery of a baby with low birth weight.,146
+147,1,Malaria can be prevented by avoiding mosquito bites and by taking medicines.,147
+148,1,Talk to a doctor about taking medicines such as chemoprophylaxis before travelling to areas where malaria is common.,148
+149,1,"Lower the risk of getting malaria by avoiding mosquito bites:  
+
+Use mosquito nets when sleeping in places where malaria is present.",149
+150,1,"Use mosquito repellents (containing DEET, IR3535 or Icaridin) after dusk.",150
+151,1,Use coils and vaporizers.,151
+152,1,Wear protective clothing.,152
+153,1,"Vector control
+Vector control is a vital component of malaria control and elimination strategies as it is highly effective in preventing infection and reducing disease transmission.",153
+154,1,The 2 core interventions are insecticide-treated nets (ITNs) and indoor residual spraying (IRS).,154
+155,1,Progress in global malaria control is threatened by emerging resistance to insecticides among Anopheles mosquitoes.,155
+156,1,"However, new generation nets, which provide better protection against malaria than pyrethroid-only nets, are becoming more widely available and represent an important tool in global efforts to combat malaria.",156
+157,1,Anopheles stephensi presents an added challenge for malaria control in Africa.,157
+158,1,"Originally native to parts of south Asia and the Arabian Peninsula, the invasive mosquito species has been expanding its range over the last decade, with detections reported to date in eight African countries.",158
+159,1,"stephensi thrives in urban settings, endures high temperatures and is resistant to many of the insecticides used in public health.",159
+160,1,"Chemoprophylaxis
+Travellers to malaria endemic areas should consult their doctor several weeks before departure.",160
+161,1,The medical professional will determine which chemoprophylaxis drugs are appropriate for the country of destination.,161
+162,1,"In some cases, chemoprophylaxis drugs must be started 2–3 weeks before departure.",162
+163,1,All prophylactic drugs should be taken on schedule for the duration of the stay in the malaria risk area and should be continued for 4 weeks after the last possible exposure to infection since parasites may still emerge from the liver during this period.,163
+164,1,"Preventive chemotherapies
+Preventive chemotherapy is the use of medicines, either alone or in combination, to prevent malaria infections and their consequences.",164
+165,1,"It requires giving a full treatment course of an antimalarial medicine to vulnerable populations at designated time points during the period of greatest malarial risk, regardless of whether the recipients are infected with malaria.",165
+166,1,"Preventive chemotherapy includes perennial malaria chemoprevention (PMC), seasonal malaria chemoprevention (SMC), intermittent preventive treatment of malaria in pregnancy (IPTp) and school-aged children (IPTsc), post-discharge malaria chemoprevention (PDMC) and mass drug administration (MDA).",166
+167,1,"These safe and cost-effective strategies are intended to complement ongoing malaria control activities, including vector control measures, prompt diagnosis of suspected malaria, and treatment of confirmed cases with antimalarial medicines.",167
+168,1,"Vaccine
+Since October 2021, WHO has recommended broad use of the RTS,S/AS01 malaria vaccine among children living in regions with moderate to high P.",168
+169,1,falciparum malaria transmission.,169
+170,1,"The vaccine has been shown to significantly reduce malaria, and deadly severe malaria, among young children.",170
+171,1,"In October 2023, WHO recommended a second safe and effective malaria vaccine, R21/Matrix-M.",171
+172,1,Vaccines are now being rolled out in routine childhood immunization programmes across Africa.,172
+173,1,Malaria vaccines in Africa are expected to save tens of thousands of young lives every year.,173
+174,1,"The highest impact will be achieved, however, when the vaccines are introduced alongside a mix of other WHO-recommended malaria interventions such as bed nets and chemoprophylaxis.",174
+175,1,Hypertension (high blood pressure) is when the pressure in your blood vessels is too high (140/90 mmHg or higher).,175
+176,1,It is common but can be serious if not treated.,176
+177,1,People with high blood pressure may not feel symptoms.,177
+178,1,The only way to know is to get your blood pressure checked.,178
+179,1,"Things that increase the risk of having high blood pressure include:
+
+older age 
+genetics
+being overweight or obese
+not being physically active 
+high-salt diet
+drinking too much alcohol
+Lifestyle changes like eating a healthier diet, quitting tobacco and being more active can help lower blood pressure.",179
+180,1,Some people may still need to take medicines.,180
+181,1,Blood pressure is written as two numbers.,181
+182,1,The first (systolic) number represents the pressure in blood vessels when the heart contracts or beats.,182
+183,1,The second (diastolic) number represents the pressure in the vessels when the heart rests between beats.,183
+184,1,"Hypertension is diagnosed if, when it is measured on two different days, the systolic blood pressure readings on both days is ≥140 mmHg and/or the diastolic blood pressure readings on both days is ≥90 mmHg.",184
+185,1,"Risk factors
+Modifiable risk factors include unhealthy diets (excessive salt consumption, a diet high in saturated fat and trans fats, low intake of fruits and vegetables), physical inactivity, consumption of tobacco and alcohol, and being overweight or obese.",185
+186,1,"In addition, there are environmental risk factors for hypertension and associated diseases, where air pollution is the most significant.",186
+187,1,"Non-modifiable risk factors include a family history of hypertension, age over 65 years and co-existing diseases such as diabetes or kidney disease.",187
+188,1,"Symptoms
+Most people with hypertension don’t feel any symptoms.",188
+189,1,"Very high blood pressures can cause headaches, blurred vision, chest pain and other symptoms.",189
+190,1,Checking your blood pressure is the best way to know if you have high blood pressure.,190
+191,1,"If hypertension isn’t treated, it can cause other health conditions like kidney disease, heart disease and stroke.",191
+192,1,"People with very high blood pressure (usually 180/120 or higher) can experience symptoms including:
+
+severe headaches
+chest pain
+dizziness
+difficulty breathing
+nausea
+vomiting
+blurred vision or other vision changes
+anxiety
+confusion
+buzzing in the ears
+nosebleeds
+abnormal heart rhythm
+If you are experiencing any of these symptoms and a high blood pressure, seek care immediately.",192
+193,1,The only way to detect hypertension is to have a health professional measure blood pressure.,193
+194,1,Having blood pressure measured is quick and painless.,194
+195,1,"Although individuals can measure their own blood pressure using automated devices, an evaluation by a health professional is important for assessment of risk and associated conditions.",195
+196,1,"Treatment
+Lifestyle changes can help lower high blood pressure.",196
+197,1,"These include:
+
+eating a healthy, low-salt diet
+losing weight
+being physically active
+quitting tobacco.",197
+198,1,"If you have high blood pressure, your doctor may recommend one or more medicines.",198
+199,1,Your recommended blood pressure goal may depend on what other health conditions you have.,199
+200,1,"Blood pressure goal is less than 130/80 if you have:
+
+cardiovascular disease (heart disease or stroke)
+diabetes (high blood sugar)
+chronic kidney disease
+high risk for cardiovascular disease.",200
+201,1,"For most people, the goal is to have a blood pressure less than 140/90.",201
+202,1,"There are several common blood pressure medicines: 
+
+ACE inhibitors including enalapril and lisinopril relax blood vessels and prevent kidney damage.",202
+203,1,Angiotensin-2 receptor blockers (ARBs) including losartan and telmisartan relax blood vessels and prevent kidney damage.,203
+204,1,Calcium channel blockers including amlodipine and felodipine relax blood vessels.,204
+205,1,"Diuretics including hydrochlorothiazide and chlorthalidone eliminate extra water from the body, lowering blood pressure.",205
+206,1,"Prevention
+Lifestyle changes can help lower high blood pressure and can help anyone with hypertension.",206
+207,1,Many who make these changes will still need to take medicine.,207
+208,1,These lifestyle changes can help prevent and lower high blood pressure.,208
+209,1,"Do:
+
+Eat more vegetables and fruits.",209
+210,1,"Be more physically active, which can include walking, running, swimming, dancing or activities that build strength, like lifting weights.",210
+211,1,Get at least 150 minutes per week of moderate-intensity aerobic activity or 75 minutes per week of vigorous aerobic activity.,211
+212,1,Do strength building exercises 2 or more days each week.,212
+213,1,Lose weight if you’re overweight or obese.,213
+214,1,Take medicines as prescribed by your health care professional.,214
+215,1,Keep appointments with your health care professional.,215
+216,1,"Don’t:
+
+eat too much salty food (try to stay under 2 grams per day)
+eat foods high in saturated or trans fats
+smoke or use tobacco
+drink too much alcohol (1 drink daily max for women, 2 for men)
+miss or share medication.",216
+217,1,"Reducing hypertension prevents heart attack, stroke and kidney damage, as well as other health problems.",217
+218,1,"Reduce the risks of hypertension by:
+
+reducing and managing stress
+regularly checking blood pressure
+treating high blood pressure
+managing other medical conditions
+reducing exposure to polluted air.",218
+219,1,"Complications of uncontrolled hypertension
+Among other complications, hypertension can cause serious damage to the heart.",219
+220,1,"Excessive pressure can harden arteries, decreasing the flow of blood and oxygen to the heart.",220
+221,1,"This elevated pressure and reduced blood flow can cause:
+
+chest pain, also called angina;
+heart attack, which occurs when the blood supply to the heart is blocked and heart muscle cells die from lack of oxygen.",221
+222,1,"The longer the blood flow is blocked, the greater the damage to the heart;
+heart failure, which occurs when the heart cannot pump enough blood and oxygen to other vital body organs; and
+irregular heart beat which can lead to a sudden death.",222
+223,1,"Hypertension can also burst or block arteries that supply blood and oxygen to the brain, causing a stroke.",223
+224,1,"In addition, hypertension can cause kidney damage, leading to kidney failure.",224
+225,1,"Prevalence of hypertension
+The prevalence of hypertension varies across regions and country income groups.",225
+226,1,The WHO Eastern Mediterranean Region has the highest prevalence of hypertension (38%) while the WHO Western Pacific Region has the lowest prevalence of hypertension (29%).,226
+227,1,The number of adults with hypertension increased from 650 million in 1990 to 1.,227
+228,1,"4 billion in 2024, with the increase seen largely in low- and middle-income countries.",228
+229,1,This increase is due mainly to a rise in the number of older adults in those countries.,229
+230,1,Overweight and obesity result from an imbalance of energy intake (diet) and energy expenditure (physical activity).,230
+231,1,In most cases obesity is a multifactorial disease due to environmental and psycho-social factors and genetic variants.,231
+232,1,"In a subgroup of patients, single major etiological factors can be identified (e.",232
+233,1,"medications, diseases, immobilization, iatrogenic procedures, and monogenic disease/genetic syndrome).",233
+234,1,Key environmental factors affecting the prevalence of overweight and obesity are those that limit the availability of healthy and sustainably-produced food at locally affordable prices spaces for physical activity and the absence of adequate legal and regulatory environments.,234
+235,1,A further factor is the lack of an effective health system response to identify excess weight gain and fat deposition at an early stage.,235
+236,1,"Common health consequences
+The health risks caused by overweight and obesity are increasingly well documented and understood.",236
+237,1,"In 2021, higher-than-optimal BMI caused an estimated 3.",237
+238,1,"7 million deaths from noncommunicable diseases (NCDs) such as cardiovascular diseases, diabetes, cancers, neurological disorders, chronic respiratory diseases, and digestive disorders (3).",238
+239,1,"Being overweight in childhood and adolescence affects children’s and adolescents’ health and is associated with greater risk and earlier onset of various NCDs, such as type 2 diabetes and cardiovascular disease.",239
+240,1,"Childhood and adolescent obesity have adverse psychosocial consequences; they affects school performance and quality of life, compounded by stigma, discrimination and bullying.",240
+241,1,Children with obesity are very likely to become adults with obesity and are also at a higher risk of developing NCDs in adulthood.,241
+242,1,The economic impacts of the obesity epidemic are also important.,242
+243,1,"If nothing is done, the global costs of overweight and obesity are predicted to reach US$ 3 trillion per year by 2030 and more than US$ 18 trillion by 2060 (4).",243
+244,1,"Finally, the rise in obesity rates in low-and middle-income countries, including among lower socio-economic groups, is fast globalizing a problem that was once associated only with high-income countries.",244
+245,1,"Facing a double burden of malnutrition
+Many low- and middle-income countries face a so-called double burden of malnutrition.",245
+246,1,"While these countries continue to deal with the problems of infectious diseases and undernutrition, they are also experiencing a rapid upsurge in noncommunicable disease risk factors such as obesity and overweight.",246
+247,1,"It is common to find undernutrition and obesity co-existing within the same country, the same community and the same household.",247
+248,1,"Children in low- and middle-income countries are more vulnerable to inadequate pre-natal, infant, and young child nutrition.",248
+249,1,"At the same time, these children are exposed to high-fat, high-sugar, high-salt, energy-dense, and micronutrient-poor foods, which tend to be lower in cost but also lower in nutrient quality.",249
+250,1,"These dietary patterns, in conjunction with lower levels of physical activity, result in sharp increases in childhood obesity while undernutrition issues remain unsolved.",250
+251,1,"Prevention and management
+Overweight and obesity, as well as their related noncommunicable diseases, are largely preventable and manageable.",251
+252,1,"At the individual level, people may be able to reduce their risk by adopting preventive interventions at each step of the life cycle, starting from pre-conception and continuing during the early years.",252
+253,1,"These include:
+
+ensure appropriate weight gain during pregnancy;
+practice exclusive breastfeeding in the first 6 months after birth and continued breastfeeding until 24 months or beyond;
+support behaviours of children around healthy eating, physical activity, sedentary behaviours and sleep, regardless of current weight status;
+limit screen time;
+limit consumption of sugar sweetened beverages and energy-dense foods and promote other healthy eating behaviours;
+enjoy a healthy life (healthy diet, physical activity, sleep duration and quality, avoid tobacco and alcohol, emotional self-regulation);
+limit energy intake from total fats and sugars and increase consumption of fruit and vegetables, as well as legumes, whole grains and nuts; and
+engage in regular physical activity.",253
+254,1,"Health practitioners need to:
+
+assess the weight and height of people accessing health facilities;
+provide counselling on healthy diet and lifestyles;
+when a diagnosis of obesity is established, advise on management of the disorder, including through healthy diet and regular physical activity, and explain and offer, as appropriate, available therapeutic and surgical measures; and
+monitor other NCD risk factors (blood glucose, lipids and blood pressure) and assess the presence of comorbidities and disability, including mental health disorders.",254
+255,1,Dietary and physical activity patterns are largely the result of environmental and societal conditions that greatly constrain personal choice.,255
+256,1,"Obesity is a societal rather than an individual responsibility, with the solutions to be found through the creation of supportive environments and communities that embed healthy diets and regular physical activity as the most accessible, available and affordable behaviours of daily life.",256
+257,1,"Stopping the rise in obesity demands multisectoral actions in areas such as food manufacturing, marketing and pricing and others that seek to address the wider determinants of health (such as poverty reduction and urban planning).",257
+258,1,"Such policies and actions include:
+
+structural, fiscal and regulatory actions aimed at creating healthy food environments that make healthier food options available, accessible and desirable; and
+health sector responses designed and equipped to identify risk, prevent, treat and manage the disease.",258
+259,1,These actions need to build upon and be integrated into broader efforts to address NCDs and strengthen health systems through a primary health care approach.,259
+260,1,"The food industry can play a significant role in promoting healthy diets by:
+
+reducing the fat, sugar and salt content of processed foods;
+ensuring that healthy and nutritious choices are available and affordable to all consumers;
+restricting marketing of foods high in sugars, salt and fats, especially those foods aimed at children and teenagers; and
+ensuring the availability of healthy food choices and supporting regular physical activity practice in the workplace.",260
+261,1,"A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour.",261
+262,1,It is usually associated with distress or impairment in important areas of functioning.,262
+263,1,There are many different types of mental disorders.,263
+264,1,Mental disorders may also be referred to as mental health conditions.,264
+265,1,"The latter is a broader term covering mental disorders, psychosocial disabilities and (other) mental states associated with significant distress, impairment in functioning, or risk of self-harm.",265
+266,1,This fact sheet focuses on mental disorders as described by the International Classification of Diseases 11th Revision (ICD-11).,266
+267,1,"In 2021, nearly 1 in every 7 people (1.",267
+268,1,"1 billion) around the world were living with a mental disorder, with anxiety and depressive disorders the most common (1).",268
+269,1,"While effective prevention and treatment options exist, most people with mental disorders do not have access to effective care.",269
+270,1,"Many people also experience stigma, discrimination and violations of human rights.",270
+271,1,"Anxiety disorders
+In 2021, 359 million people were living with an anxiety disorder including 72 million children and adolescents (1).",271
+272,1,Anxiety disorders are characterised by excessive fear and worry and related behavioural disturbances.,272
+273,1,Symptoms are severe enough to result in significant distress or significant impairment in functioning.,273
+274,1,"There are several different kinds of anxiety disorders, such as: generalized anxiety disorder (characterised by excessive worry), panic disorder (characterised by panic attacks), social anxiety disorder (characterised by excessive fear and worry in social situations), separation anxiety disorder (characterised by excessive fear or anxiety about separation from those individuals to whom the person has a deep emotional bond), and others.",274
+275,1,"Effective psychological treatment exists, and depending on the age and severity, medication may also be considered.",275
+276,1,"Depression
+In 2019, 280 million people were living with depression, including 23 million children and adolescents (1).",276
+277,1,Depression is different from usual mood fluctuations and short-lived emotional responses to challenges in everyday life.,277
+278,1,"During a depressive episode, the person experiences depressed mood (feeling sad, irritable, empty) or a loss of pleasure or interest in activities, for most of the day, nearly every day, for at least two weeks.",278
+279,1,"Several other symptoms are also present, which may include poor concentration, feelings of excessive guilt or low self-worth, hopelessness about the future, thoughts about dying or suicide, disrupted sleep, changes in appetite or weight, and feeling especially tired or low in energy.",279
+280,1,People with depression are at an increased risk of suicide.,280
+281,1,"Yet, effective psychological treatment exists, and depending on the age and severity, medication may also be considered.",281
+282,1,"Bipolar disorder
+In 2021, 37 million people experienced bipolar disorder, including 3.",282
+283,1,8 milion adolescents aged 10–19 years (1).,283
+284,1,People with bipolar disorder experience alternating depressive episodes with periods of manic symptoms.,284
+285,1,"During a depressive episode, the person experiences depressed mood (feeling sad, irritable, empty) or a loss of pleasure or interest in activities, for most of the day, nearly every day.",285
+286,1,"Manic symptoms may include euphoria or irritability, increased activity or energy, and other symptoms such as increased talkativeness, racing thoughts, increased self-esteem, decreased need for sleep, distractibility, and impulsive reckless behaviour.",286
+287,1,People with bipolar disorder are at an increased risk of suicide.,287
+288,1,"Yet effective treatment options exist including psychoeducation, reduction of stress and strengthening of social functioning, and medication.",288
+289,1,"Post-Traumatic Stress Disorder (PTSD)
+PTSD may develop following exposure to an extremely threatening or horrific event or series of events.",289
+290,1,"It is characterised by all of the following: 1) re-experiencing the traumatic event or events in the present (intrusive memories, flashbacks, or nightmares); 2) avoidance of thoughts and memories of the event(s), or avoidance of activities, situations, or people reminiscent of the event(s); and 3) persistent perceptions of heightened current threat.",290
+291,1,These symptoms persist for at least several weeks and cause significant impairment in functioning.,291
+292,1,Effective psychological treatment exists.,292
+293,1,"Schizophrenia
+Schizophrenia affects approximately 23 million people or 1 in 345 people worldwide (1).",293
+294,1,People with schizophrenia have a life expectancy nine years below that of the general population (2).,294
+295,1,Schizophrenia is characterised by significant impairments in perception and changes in behaviour.,295
+296,1,"Symptoms may include persistent delusions, hallucinations, disorganised thinking, highly disorganised behaviour, or extreme agitation.",296
+297,1,People with schizophrenia may experience persistent difficulties with their cognitive functioning.,297
+298,1,"Yet, a range of effective treatment options exist, including medication, psychoeducation, family interventions, and psychosocial rehabilitation.",298
+299,1,"Eating disorders
+In 2021, 16 million people experienced eating disorders including almost 3.",299
+300,1,4 million children and adolescents (1).,300
+301,1,"Eating disorders, such as anorexia nervosa and bulimia nervosa, involve abnormal eating and preoccupation with food as well as prominent body weight and shape concerns.",301
+302,1,"The symptoms or behaviours result in significant risk or damage to health, significant distress, or significant impairment of functioning.",302
+303,1,Anorexia nervosa often has its onset during adolescence or early adulthood and is associated with premature death due to medical complications or suicide.,303
+304,1,"Individuals with bulimia nervosa are at a significantly increased risk for substance use, suicidality, and health complications.",304
+305,1,"Effective treatment options exist, including family-based treatment and cognitive-based therapy.",305
+306,1,"Disruptive behaviour and dissocial disorders
+In 2021, 41 million people, including children and adolescents, were living with conduct-dissocial disorder (1).",306
+307,1,"This disorder, also known as conduct disorder, is one of two disruptive behaviour and dissocial disorders, the other is oppositional defiant disorder.",307
+308,1,"Disruptive behaviour and dissocial disorders are characterised by persistent behaviour problems such as persistently defiant or disobedient to behaviours that persistently violate the basic rights of others or major age-appropriate societal norms, rules, or laws.",308
+309,1,"Onset of disruptive and dissocial disorders, is commonly, though not always, during childhood.",309
+310,1,"Effective psychological treatments exist, such as cognitive problem-solving and/or social skills training, and often involve parents, caregivers, and teachers.",310
+311,1,"Neurodevelopmental disorders
+Neurodevelopmental disorders are behavioural and cognitive disorders, that arise during the developmental period, and involve significant difficulties in the acquisition and execution of specific intellectual, motor, language, or social functions.",311
+312,1,"Neurodevelopmental disorders include disorders of intellectual development, autism spectrum disorder, and attention deficit hyperactivity disorder (ADHD) amongst others.",312
+313,1,"ADHD is characterised by a persistent pattern of inattention and/or hyperactivity-impulsivity that has a direct negative impact on academic, occupational, or social functioning.",313
+314,1,"Disorders of intellectual development are characterised by significant limitations in intellectual functioning and adaptive behaviour, which refers to difficulties with everyday conceptual, social, and practical skills that are performed in daily life.",314
+315,1,"Autism spectrum disorder (ASD) constitutes a diverse group of conditions characterised by some degree of difficulty with social communication and reciprocal social interaction, as well as persistent restricted, repetitive, and inflexible patterns of behaviour, interests, or activities.",315
+316,1,"Effective treatment options exist including psychosocial interventions, behavioural interventions, occupational and speech therapy.",316
+317,1,"For certain diagnoses and age groups, medication may also be considered.",317
+318,1,"Risk factors 
+At any one time, a diverse set of individual, family, community, and structural factors may combine to protect or undermine mental health.",318
+319,1,"Although most people are resilient, people who are exposed to adverse circumstances – including poverty, violence, disability, and inequality – are at higher risk.",319
+320,1,"Protective and risk factors include individual psychological and biological factors, such as emotional skills as well as genetics.",320
+321,1,Many of the risk and protective factors are influenced through changes in brain structure and/or function.,321
+322,1,"Health systems and social support
+Health systems have not yet adequately responded to the needs of people with mental disorders and are significantly under resourced.",322
+323,1,The gap between the need for treatment and its provision is wide all over the world; and is often poor in quality when delivered.,323
+324,1,"For example, only 29% of people with psychosis (3) and only one third of people with depression receive formal mental health care (4).",324
+325,1,"People with mental disorders also require social support, including support in developing and maintaining personal, family, and social relationships.",325
+326,1,"People with mental disorders may also need support for educational programmes, employment, housing, and participation in other meaningful activities.",326
+327,1,The following list does not include all possible symptoms.,327
+328,1,Symptoms may change with new COVID-19 variants and can vary depending on vaccination status.,328
+329,1,"Possible symptoms include:
+
+Fever or chills
+Cough
+Shortness of breath or difficulty breathing
+Sore throat
+Congestion or runny nose
+New loss of taste or smell
+Fatigue
+Muscle or body aches
+Headache
+Nausea or vomiting
+Diarrhea
+CDC will continue to update this list as we learn more about COVID-19.",329
+330,1,"Feeling Sick?
+Stay home and away from others (including people you live with who are not sick) if you have symptoms that aren't better explained by another cause.",330
+331,1,Seek health care promptly for testing and/or treatment if you have risk factors for severe illness; treatment may help lower your risk of severe illness.,331
+332,1,"When to seek emergency help
+Look for emergency warning signs* for COVID 19:
+
+Trouble breathing
+Persistent pain or pressure in the chest
+New confusion
+Inability to wake or stay awake
+Depending on skin tone, lips, nail beds and skin may appear pale, gray, or blue.",332
+333,1,"If someone is showing any of these signs, call 911 or call ahead to your local emergency facility.",333
+334,1,Notify the operator that you are seeking care for someone who has or may have COVID-19.,334
+335,1,*This list does not include all possible symptoms.,335
+336,1,Please call your medical provider for any other symptoms that are severe or concerning to you.,336
+337,1,"Difference between flu and COVID-19
+Influenza (Flu) and COVID-19 are both contagious respiratory illnesses, but they are caused by different viruses.",337
+338,1,"COVID-19 is caused by infection with a coronavirus named SARS-CoV-2, and flu is caused by infection with one of the influenza viruses.",338
+339,1,You cannot tell the difference between flu and COVID-19 by symptoms alone because some of the symptoms are the same.,339
+340,1,"Some nucleic acid amplification tests (NAATs), including PCR tests, can differentiate between flu and COVID-19 at the same time.",340
+341,1,"If one of these tests is not available, many testing locations provide flu and COVID-19 tests separately.",341
+342,1,"Asthma causes wheezing, breathlessness, chest tightness, and coughing at night or early in the morning.",342
+343,1,"If you have asthma, you have it all the time, but you will have asthma attacks only when something bothers your lungs.",343
+344,1,"An asthma attack may include coughing, chest tightness, wheezing, and trouble breathing.",344
+345,1,"The attack happens in your body's airways, which are the paths that carry air to your lungs.",345
+346,1,"As the air moves through your lungs, the airways become smaller, like the branches of a tree are smaller than the tree trunk.",346
+347,1,"During an asthma attack, the sides of the airways in your lungs swell and the airways shrink.",347
+348,1,"Less air gets in and out of your lungs, and mucous that your body makes clogs up the airways.",348
+349,1,"You can control your asthma by knowing the warning signs of an asthma attack, staying away from things that cause an attack, and following your doctor's advice.",349
+350,1,"Diagnosis
+It can be hard to tell if someone has asthma, especially in children under age 5.",350
+351,1,A doctor can help you find out if you have asthma.,351
+352,1,"During a checkup, a doctor may ask if you cough a lot, especially at night.",352
+353,1,He or she may also ask whether your breathing problems are worse after physical activity or at certain times of year.,353
+354,1,"The doctor may ask about chest tightness, wheezing, and colds lasting more than 10 days.",354
+355,1,"He or she may ask whether anyone in your family has or has had asthma, allergies, or other breathing problems.",355
+356,1,The doctor may ask about your home and whether you have missed school or work or have trouble doing certain things.,356
+357,1,"The doctor may also do a breathing test, called spirometry, to find out how well your lungs are working.",357
+358,1,Spirometry tests how much air you breathe out after taking a very deep breath before and after you use asthma medicine.,358
+359,1,"Symptom management
+Take your medicine exactly as your doctor tells you and stay away from things that can trigger an attack to control your asthma.",359
+360,1,Everyone with asthma does not take the same medicine.,360
+361,1,You can breathe in some medicines and take other medicines as a pill.,361
+362,1,Asthma medicines can be used in several ways -- as reliever therapy or as controller therapy.,362
+363,1,"If you need to use your reliever medicine more and more, visit your doctor to see if you need a different medicine.",363
+364,1,Controller medicines help you have fewer and milder asthma attacks.,364
+365,1,Asthma medicines can have side effects.,365
+366,1,Most side effects are mild and soon go away.,366
+367,1,Ask your doctor about the side effects of your medicines.,367
+368,1,"Resources and tools
+Asthma information in other languages:
+
+Arabic
+Chinese
+French
+German
+Haitian
+Hindi
+Korean
+Mongolian
+Myanmar (Burmese)
+Portuguese
+Russian
+Somali
+Spanish
+Tagalog
+Urdu
+Vietnamese
+Checklist for home visitors
+A trained home visitor can help find common asthma triggers in homes and discuss ways to reduce and remove triggers.",368
+369,1,"Removing asthma triggers in the home, along with proper medical care can improve health.",369
+370,1,The checklist is organized into a Core Assessment plus two appendices (Dust Mite Module and Mold and Moisture Module).,370
+371,1,"The Core Assessment can be used for all types of housing and climates, but the additional modules can be used if dust mites or mold/moisture issues are suspected by the trained home visitor.",371
+372,1,The suggested action items in this checklist are generally simple and low cost.,372
+373,1,"Type 1 diabetes
+Type 1 diabetes is thought to be caused by an autoimmune reaction (the body attacks itself by mistake).",373
+374,1,This reaction stops your body from making insulin.,374
+375,1,"If you have type 1 diabetes, you’ll need to take insulin every day to survive.",375
+376,1,People with type 1 diabetes in its early stages don’t have any symptoms.,376
+377,1,"As type 1 progresses, symptoms can appear suddenly, in just a few weeks or months, and can be severe.",377
+378,1,"Currently, no one knows how to prevent type 1 diabetes, but if found early, type 1 can be treated to avoid or delay symptoms and serious complications.",378
+379,1,Type 1 diabetes is usually diagnosed in children and young adults but can be diagnosed at any age.,379
+380,1,"Keep Reading
+About Type 1 Diabetes
+Type 2 diabetes
+With type 2 diabetes, your body doesn’t use insulin well and can’t keep blood sugar at normal levels.",380
+381,1,"It develops over many years and is usually diagnosed in adults (but more and more in children, teens, and young adults).",381
+382,1,"You may not notice any symptoms, so it's important to get your blood sugar tested if you're at risk.",382
+383,1,"Keep Reading
+About Type 2 Diabetes
+Gestational diabetes
+Gestational diabetes develops in pregnant women who have never had diabetes.",383
+384,1,"If you have gestational diabetes, your baby could be at higher risk for health problems.",384
+385,1,Gestational diabetes usually goes away after your baby is born.,385
+386,1,"However, it increases your risk for type 2 diabetes later in life.",386
+387,1,Your baby is more likely to have obesity as a child or teen and develop type 2 diabetes later in life.,387
+388,1,"Keep Reading
+About Gestational Diabetes
+Prevention
+Type 2 diabetes and prediabetes
+In the United States, more than 2 in 5 adults have prediabetes.",388
+389,1,About 8 in 10 people with prediabetes don't know they have it.,389
+390,1,"With prediabetes, blood sugar levels are higher than normal, but not high enough for a type 2 diabetes diagnosis.",390
+391,1,"Prediabetes raises your risk for type 2 diabetes, heart disease, and stroke.",391
+392,1,Prediabetes and type 2 diabetes can be prevented with lifestyle changes.,392
+393,1,"These include losing weight if you're overweight, eating a healthy diet, and getting regular physical activity.",393
+394,1,"Type 1 diabetes
+Currently, no one knows how to prevent type 1 diabetes, but in its early stages, type 1 can be treated to avoid or delay symptoms and serious complications.",394
+395,1,"Gestational diabetes
+If you're at risk for gestational diabetes, you may be able to prevent it with lifestyle changes, including healthy eating and regular physical activity.",395
+396,1,"How you can prevent type 2 diabetes
+If you have prediabetes, learn how the lifestyle change program can help you take healthy steps to prevent or delay type 2 diabetes.",396
+397,1,"Diabetes by the numbers
+In the United States:
+
+More than 40 million Americans have diabetes, and more than 1 in 4 adults with diabetes don't know they have it.",397
+398,1,Diabetes is the seventh leading cause of death.,398
+399,1,Type 2 diabetes accounts for about 90% to 95% of all diagnosed cases of diabetes; type 1 diabetes accounts for about 5% to 10%.,399
+400,1,"1 cause of kidney failure, lower-limb amputations, and adult blindness.",400
+401,1,"In the last 20 years, the number of adults diagnosed with diabetes has more than doubled.",401
+402,1,"Diabetes is the most costly health condition in the United States, accounting for 25% of all health care spending and costing $640 billion in 2021.",402
+403,1,"Stroke statistics by race and ethnicity
+Stroke is a leading cause of death for Americans.",403
+404,1,The risk of having a stroke varies with race and ethnicity.,404
+405,1,Risk of having a first stroke is nearly twice as high for non-Hispanic Black adults as for White adults.,405
+406,1,"2
+Non-Hispanic Black adults and Pacific Islander adults have the highest rates of death from stroke.",406
+407,1,"1
+Stroke risk varies by age
+Stroke risk increases with age, but strokes can—and do—occur at any age.",407
+408,1,"In 2014, 38% of people hospitalized for stroke were less than 65 years old.",408
+409,1,"4
+Early action is important for stroke
+Know the warning signs and symptoms of stroke so that you can act fast if you or someone you know might be having a stroke.",409
+410,1,The chances of survival are greater when emergency treatment begins quickly.,410
+411,1,"In one survey, 93% of respondents recognized sudden numbness on one side as a symptom of stroke.",411
+412,1,Only 38% were aware of all major symptoms and knew to call 9-1-1 when someone was having a stroke.,412
+413,1,"5
+Patients who arrive at the emergency room within 3 hours of their first symptoms often have less disability 3 months after a stroke than those who receive delayed care.",413
+414,1,"5
+Populations
+Americans at risk for stroke
+High blood pressure, high cholesterol, smoking, obesity, and diabetes are leading causes of stroke.",414
+415,1,One in three US adults has at least one of these conditions or risk factors.,415
+416,1,"2
+
+Learn how to take steps to prevent stroke.",416
+417,1,"What CDC is doing
+CDC and its partners are leading national initiatives and programs to reduce rates of death and disability caused by stroke and to help people live longer, healthier lives.",417
+418,1,"CDC's Division for Heart Disease and Stroke Prevention (DHDSP) provides resources to all 50 states to address heart disease and stroke, as well as helping lead or support the following:
+
+The WISEWOMAN program screens women aged 35 to 64 who with low incomes and little or no insurance for chronic disease risk factors and refers them to lifestyle programs in an effort to prevent heart disease and strokes.",418
+419,1,"The Paul Coverdell National Acute Stroke Program funds states to measure, track, and improve the quality of care for stroke patients.",419
+420,1,The program works to reduce death and disability from stroke.,420
+421,1,"The Million Hearts® initiative, which is co-led by CDC and the Centers for Medicare & Medicaid Services, works with other federal agencies and private-sector partners to raise awareness about heart disease and stroke and prevent heart attacks and strokes.",421
+422,1,"he signs and symptoms of pneumonia vary from mild to severe, depending on factors such as the type of germ causing the infection, and your age and overall health.",422
+423,1,"Mild signs and symptoms often are similar to those of a cold or flu, but they last longer.",423
+424,1,"Signs and symptoms of pneumonia may include:
+
+Chest pain when you breathe or cough
+Confusion or changes in mental awareness (in adults age 65 and older)
+Cough, which may produce phlegm
+Fatigue
+Fever, sweating and shaking chills
+Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)
+Nausea, vomiting or diarrhea
+Shortness of breath
+Newborns and infants may not show any sign of the infection.",424
+425,1,"Or they may vomit, have a fever and cough, appear restless or tired and without energy, or have difficulty breathing and eating.",425
+426,1,"When to see a doctor
+See your doctor if you have difficulty breathing, chest pain, persistent fever of 102 F (39 C) or higher, or persistent cough, especially if you're coughing up pus.",426
+427,1,"It's especially important that people in these high-risk groups see a doctor:
+
+Adults older than age 65
+Children younger than age 2 with signs and symptoms
+People with an underlying health condition or weakened immune system
+People receiving chemotherapy or taking medication that suppresses the immune system
+Many germs can cause pneumonia.",427
+428,1,The most common are bacteria and viruses in the air we breathe.,428
+429,1,Your body usually prevents these germs from infecting your lungs.,429
+430,1,"But sometimes these germs can overpower your immune system, even if your health is generally good.",430
+431,1,Pneumonia is classified according to the types of germs that cause it and where you got the infection.,431
+432,1,"Community-acquired pneumonia
+Community-acquired pneumonia is the most common type of pneumonia.",432
+433,1,It occurs outside of hospitals or other health care facilities.,433
+434,1,"It may be caused by:
+
+Bacteria.",434
+435,1,The most common cause of bacterial pneumonia in the U.,435
+436,1,is Streptococcus pneumoniae.,436
+437,1,This type of pneumonia can occur on its own or after you've had a cold or the flu.,437
+438,1,"It may affect one part (lobe) of the lung, a condition called lobar pneumonia.",438
+439,1,Bacteria-like organisms.,439
+440,1,Mycoplasma pneumoniae also can cause pneumonia.,440
+441,1,It typically produces milder symptoms than do other types of pneumonia.,441
+442,1,"Walking pneumonia is an informal name given to this type of pneumonia, which typically isn't severe enough to require bed rest.",442
+443,1,"This type of pneumonia is most common in people with chronic health problems or weakened immune systems, and in people who have inhaled large doses of the organisms.",443
+444,1,The fungi that cause it can be found in soil or bird droppings and vary depending upon geographic location.,444
+445,1,"Viruses, including COVID-19.",445
+446,1,Some of the viruses that cause colds and the flu can cause pneumonia.,446
+447,1,Viruses are the most common cause of pneumonia in children younger than 5 years.,447
+448,1,Viral pneumonia is usually mild.,448
+449,1,But in some cases it can become very serious.,449
+450,1,"Coronavirus 2019 (COVID-19) may cause pneumonia, which can become severe.",450
+451,1,"Hospital-acquired pneumonia
+Some people catch pneumonia during a hospital stay for another illness.",451
+452,1,Hospital-acquired pneumonia can be serious because the bacteria causing it may be more resistant to antibiotics and because the people who get it are already sick.,452
+453,1,"People who are on breathing machines (ventilators), often used in intensive care units, are at higher risk of this type of pneumonia.",453
+454,1,"Health care-acquired pneumonia
+Health care-acquired pneumonia is a bacterial infection that occurs in people who live in long-term care facilities or who receive care in outpatient clinics, including kidney dialysis centers.",454
+455,1,"Like hospital-acquired pneumonia, health care-acquired pneumonia can be caused by bacteria that are more resistant to antibiotics.",455
+456,1,"Aspiration pneumonia
+Aspiration pneumonia occurs when you inhale food, drink, vomit or saliva into your lungs.",456
+457,1,"Aspiration is more likely if something disturbs your normal gag reflex, such as a brain injury or swallowing problem, or excessive use of alcohol or drugs.",457
+458,1,"Risk factors
+Pneumonia can affect anyone.",458
+459,1,"But the two age groups at highest risk are:
+
+Children who are 2 years old or younger
+People who are age 65 or older
+Other risk factors include:
+
+Being hospitalized.",459
+460,1,"You're at greater risk of pneumonia if you're in a hospital intensive care unit, especially if you're on a machine that helps you breathe (a ventilator).",460
+461,1,"You're more likely to get pneumonia if you have asthma, chronic obstructive pulmonary disease (COPD) or heart disease.",461
+462,1,Smoking damages your body's natural defenses against the bacteria and viruses that cause pneumonia.,462
+463,1,Weakened or suppressed immune system.,463
+464,1,"People who have HIV/AIDS, who've had an organ transplant, or who receive chemotherapy or long-term steroids are at risk.",464
+465,1,"Complications
+Even with treatment, some people with pneumonia, especially those in high-risk groups, may experience complications, including:
+
+Bacteria in the bloodstream (bacteremia).",465
+466,1,"Bacteria that enter the bloodstream from your lungs can spread the infection to other organs, potentially causing organ failure.",466
+467,1,"If your pneumonia is severe or you have chronic underlying lung diseases, you may have trouble breathing in enough oxygen.",467
+468,1,You may need to be hospitalized and use a breathing machine (ventilator) while your lung heals.,468
+469,1,Fluid accumulation around the lungs (pleural effusion).,469
+470,1,Pneumonia may cause fluid to build up in the thin space between layers of tissue that line the lungs and chest cavity (pleura).,470
+471,1,"If the fluid becomes infected, you may need to have it drained through a chest tube or removed with surgery.",471
+472,1,An abscess occurs if pus forms in a cavity in the lung.,472
+473,1,An abscess is usually treated with antibiotics.,473
+474,1,"Sometimes, surgery or drainage with a long needle or tube placed into the abscess is needed to remove the pus.",474
+475,1,"Prevention
+To help prevent pneumonia:
+
+Get vaccinated.",475
+476,1,Vaccines are available to prevent some types of pneumonia and the flu.,476
+477,1,Talk with your doctor about getting these shots.,477
+478,1,The vaccination guidelines have changed over time so make sure to review your vaccination status with your doctor even if you recall previously receiving a pneumonia vaccine.,478
+479,1,Make sure children get vaccinated.,479
+480,1,Doctors recommend a different pneumonia vaccine for children younger than age 2 and for children ages 2 to 5 years who are at particular risk of pneumococcal disease.,480
+481,1,Children who attend a group child care center should also get the vaccine.,481
+482,1,Doctors also recommend flu shots for children older than 6 months.,482
+483,1,Practice good hygiene.,483
+484,1,"To protect yourself against respiratory infections that sometimes lead to pneumonia, wash your hands regularly or use an alcohol-based hand sanitizer.",484
+485,1,Smoking damages your lungs' natural defenses against respiratory infections.,485
+486,1,Keep your immune system strong.,486
+487,1,"Get enough sleep, exercise regularly and eat a healthy diet.",487
+488,1,Heart disease symptoms depend on the type of heart disease.,488
+489,1,"Symptoms of heart disease in the blood vessels
+Coronary artery disease is a common heart condition that affects the major blood vessels that supply the heart muscle.",489
+490,1,"A buildup of fats, cholesterol and other substances in and on the artery walls usually causes coronary artery disease.",490
+491,1,This buildup is called plaque.,491
+492,1,The buildup of plaque in the arteries is called atherosclerosis (ath-ur-o-skluh-ROE-sis).,492
+493,1,Atherosclerosis reduces blood flow to the heart and other parts of the body.,493
+494,1,"It can lead to a heart attack, chest pain or a stroke.",494
+495,1,"Symptoms of coronary artery disease can include:
+
+Chest pain, chest tightness, chest pressure and chest discomfort, called angina.",495
+496,1,"Pain in the neck, jaw, throat, upper belly or back.",496
+497,1,"Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in those body areas are narrowed.",497
+498,1,"You might not be diagnosed with coronary artery disease until you have a heart attack, angina, a stroke or heart failure.",498
+499,1,It's important to watch for heart symptoms.,499
+500,1,Talk with your healthcare team about any concerns.,500
+501,1,Heart disease can sometimes be found early with regular health checkups.,501
+502,1,What is coronary artery disease? A Mayo Clinic cardiologist explains.,502
+503,1,", talks about the risk factors, symptoms and treatment of coronary artery disease (CAD).",503
+504,1,Learn how lifestyle changes can lower your risk.,504
+505,1,"The heart may beat too quickly, too slowly or irregularly.",505
+506,1,"Heart arrhythmia symptoms can include:
+
+Chest pain or discomfort.",506
+507,1,Fainting or almost fainting.,507
+508,1,Fluttering in the chest.,508
+509,1,"Heart disease symptoms caused by congenital heart defects
+A congenital heart defect is a heart condition present at birth.",509
+510,1,Serious congenital heart defects usually are noticed soon after birth.,510
+511,1,"Congenital heart defect symptoms in children could include:
+
+Blue or gray skin.",511
+512,1,"Depending on skin color, these changes may be easier or harder to see.",512
+513,1,"Swelling in the legs, belly area or areas around the eyes.",513
+514,1,"In an infant, shortness of breath during feedings, leading to poor weight gain.",514
+515,1,Some congenital heart defects may not be found until later in childhood or during adulthood.,515
+516,1,"Symptoms may include:
+
+Getting very short of breath during exercise or activity.",516
+517,1,Easily tiring during exercise or activity.,517
+518,1,"Swelling of the hands, ankles or feet.",518
+519,1,"Heart disease symptoms caused by diseased heart muscle, called cardiomyopathy
+In the beginning, cardiomyopathy may not cause noticeable symptoms.",519
+520,1,"As the condition gets worse, symptoms may include:
+
+Dizziness, lightheadedness and fainting.",520
+521,1,Feeling short of breath during activity or at rest.,521
+522,1,"Feeling short of breath at night when trying to sleep, or waking up short of breath.",522
+523,1,"Rapid, pounding or fluttering heartbeats.",523
+524,1,"Swollen legs, ankles or feet.",524
+525,1,"Heart disease symptoms caused by heart valve disease
+The heart has four valves.",525
+526,1,The valves open and close to move blood through the heart.,526
+527,1,Many things can damage the heart valves.,527
+528,1,"If a heart valve is narrowed, it's called stenosis.",528
+529,1,"If a heart valve lets blood flow backward, it's called regurgitation.",529
+530,1,Symptoms of heart valve disease depend on which valve isn't working right.,530
+531,1,"Symptoms may include:
+
+Chest pain.",531
+532,1,Fainting or almost fainting.,532
+533,1,Swollen feet or ankles.,533
+534,1,"When to see a doctor
+Get emergency medical help if you have these heart disease symptoms:
+
+Chest pain.",534
+535,1,Always call 911 or your local emergency number if you think you might be having a heart attack.,535
+536,1,"If you think you may have symptoms of heart disease, make an appointment for a health checkup.",536
+537,1,Heart disease is easier to treat when found early.,537
+538,1,"Although depression may occur only once during your life, people typically have multiple episodes.",538
+539,1,"During these episodes, symptoms occur most of the day, nearly every day and may include:
+
+Feelings of sadness, tearfulness, emptiness or hopelessness
+Angry outbursts, irritability or frustration, even over small matters
+Loss of interest or pleasure in most or all normal activities, such as sex, hobbies or sports
+Sleep disturbances, including insomnia or sleeping too much
+Tiredness and lack of energy, so even small tasks take extra effort
+Reduced appetite and weight loss or increased cravings for food and weight gain
+Anxiety, agitation or restlessness
+Slowed thinking, speaking or body movements
+Feelings of worthlessness or guilt, fixating on past failures or self-blame
+Trouble thinking, concentrating, making decisions and remembering things
+Frequent or recurrent thoughts of death, suicidal thoughts, suicide attempts or suicide
+Unexplained physical problems, such as back pain or headaches
+For many people with depression, symptoms usually are severe enough to cause noticeable problems in day-to-day activities, such as work, school, social activities or relationships with others.",539
+540,1,Some people may feel generally miserable or unhappy without really knowing why.,540
+541,1,"Depression symptoms in children and teens
+Common signs and symptoms of depression in children and teenagers are similar to those of adults, but there can be some differences.",541
+542,1,"In younger children, symptoms of depression may include sadness, irritability, clinginess, worry, aches and pains, refusing to go to school, or being underweight.",542
+543,1,"In teens, symptoms may include sadness, irritability, feeling negative and worthless, anger, poor performance or poor attendance at school, feeling misunderstood and extremely sensitive, using recreational drugs or alcohol, eating or sleeping too much, self-harm, loss of interest in normal activities, and avoidance of social interaction.",543
+544,1,"Depression symptoms in older adults
+Depression is not a normal part of growing older, and it should never be taken lightly.",544
+545,1,"Unfortunately, depression often goes undiagnosed and untreated in older adults, and they may feel reluctant to seek help.",545
+546,1,"Symptoms of depression may be different or less obvious in older adults, such as:
+
+Memory difficulties or personality changes
+Physical aches or pain
+Fatigue, loss of appetite, sleep problems or loss of interest in sex — not caused by a medical condition or medication
+Often wanting to stay at home, rather than going out to socialize or doing new things
+Suicidal thinking or feelings, especially in older men
+When to see a doctor
+If you feel depressed, make an appointment to see your doctor or mental health professional as soon as you can.",546
+547,1,"If you're reluctant to seek treatment, talk to a friend or loved one, any health care professional, a faith leader, or someone else you trust.",547
+548,1,"When to get emergency help
+If you think you may hurt yourself or attempt suicide, call 911 in the U.",548
+549,1,or your local emergency number immediately.,549
+550,1,"Also consider these options if you're having suicidal thoughts:
+
+Call your doctor or mental health professional.",550
+551,1,Contact a suicide hotline.,551
+552,1,", call or text 988 to reach the 988 Suicide & Crisis Lifeline, available 24 hours a day, seven days a week.",552
+553,1,Or use the Lifeline Chat.,553
+554,1,Services are free and confidential.,554
+555,1,veterans or service members who are in crisis can call 988 and then press “1” for the Veterans Crisis Line.,555
+556,1,The Suicide & Crisis Lifeline in the U.,556
+557,1,has a Spanish language phone line at 1-888-628-9454 (toll-free).,557
+558,1,Reach out to a close friend or loved one.,558
+559,1,"Contact a minister, spiritual leader or someone else in your faith community.",559
+560,1,"If you have a loved one who is in danger of suicide or has made a suicide attempt, make sure someone stays with that person.",560
+561,1,Call 911 or your local emergency number immediately.,561
+562,1,"Or, if you think you can do so safely, take the person to the nearest hospital emergency room.",562
+563,1,It's not known exactly what causes depression.,563
+564,1,"As with many mental disorders, a variety of factors may be involved, such as:
+
+Biological differences.",564
+565,1,People with depression appear to have physical changes in their brains.,565
+566,1,"The significance of these changes is still uncertain, but may eventually help pinpoint causes.",566
+567,1,Neurotransmitters are naturally occurring brain chemicals that likely play a role in depression.,567
+568,1,Recent research indicates that changes in the function and effect of these neurotransmitters and how they interact with neurocircuits involved in maintaining mood stability may play a significant role in depression and its treatment.,568
+569,1,Changes in the body's balance of hormones may be involved in causing or triggering depression.,569
+570,1,"Hormone changes can result with pregnancy and during the weeks or months after delivery (postpartum) and from thyroid problems, menopause or a number of other conditions.",570
+571,1,Depression is more common in people whose blood relatives also have this condition.,571
+572,1,Researchers are trying to find genes that may be involved in causing depression.,572
+573,1,"Depression often begins in the teens, 20s or 30s, but it can happen at any age.",573
+574,1,"More women than men are diagnosed with depression, but this may be due in part because women are more likely to seek treatment.",574
+575,1,"Factors that seem to increase the risk of developing or triggering depression include:
+
+Certain personality traits, such as low self-esteem and being too dependent, self-critical or pessimistic
+Traumatic or stressful events, such as physical or sexual abuse, the death or loss of a loved one, a difficult relationship, or financial problems
+Blood relatives with a history of depression, bipolar disorder, alcoholism or suicide
+Being lesbian, gay, bisexual or transgender, or having variations in the development of genital organs that aren't clearly male or female (intersex) in an unsupportive situation
+History of other mental health disorders, such as anxiety disorder, eating disorders or post-traumatic stress disorder
+Abuse of alcohol or recreational drugs
+Serious or chronic illness, including cancer, stroke, chronic pain or heart disease
+Certain medications, such as some high blood pressure medications or sleeping pills (talk to your doctor before stopping any medication)
+Complications
+Depression is a serious disorder that can take a terrible toll on you and your family.",575
+576,1,"Depression often gets worse if it isn't treated, resulting in emotional, behavioral and health problems that affect every area of your life.",576
+577,1,"Examples of complications associated with depression include:
+
+Excess weight or obesity, which can lead to heart disease and diabetes
+Pain or physical illness
+Alcohol or drug misuse
+Anxiety, panic disorder or social phobia
+Family conflicts, relationship difficulties, and work or school problems
+Social isolation
+Suicidal feelings, suicide attempts or suicide
+Self-mutilation, such as cutting
+Premature death from medical conditions
+There's no sure way to prevent depression.",577
+578,1,"However, these strategies may help.",578
+579,1,"Take steps to control stress, to increase your resilience and boost your self-esteem.",579
+580,1,"Reach out to family and friends, especially in times of crisis, to help you weather rough spells.",580
+581,1,Get treatment at the earliest sign of a problem to help prevent depression from worsening.,581
+582,1,Consider getting long-term maintenance treatment to help prevent a relapse of symptoms.,582
+583,1,"Common anxiety signs and symptoms include:
+
+Feeling nervous, restless or tense.",583
+584,1,"Having a sense of impending danger, panic or doom.",584
+585,1,Having an increased heart rate.,585
+586,1,Breathing rapidly (hyperventilation).,586
+587,1,Feeling weak or tired.,587
+588,1,Trouble concentrating or thinking about anything other than the present worry.,588
+589,1,Having trouble sleeping.,589
+590,1,Having an upset stomach or other problems with digestion.,590
+591,1,Having difficulty controlling worry.,591
+592,1,Having the urge to avoid things that trigger anxiety.,592
+593,1,"Several types of anxiety disorders exist:
+
+Agoraphobia (ag-uh-ruh-FOE-be-uh) is a type of anxiety disorder in which you fear and often avoid places or situations that might cause you to panic and make you feel trapped, helpless or embarrassed.",593
+594,1,Anxiety disorder due to a medical condition includes symptoms of intense anxiety or panic that are directly caused by a physical health problem.,594
+595,1,"Generalized anxiety disorder includes persistent and excessive anxiety and worry about activities or events — even ordinary, routine issues.",595
+596,1,"The worry is out of proportion to the actual circumstance, is difficult to control and affects how you feel physically.",596
+597,1,It often occurs along with other anxiety disorders or depression.,597
+598,1,Panic disorder involves repeated episodes of sudden feelings of intense anxiety and fear or terror that reach a peak within minutes (panic attacks).,598
+599,1,"You may have feelings of impending doom, shortness of breath, chest pain, or a rapid, fluttering or pounding heart (heart palpitations).",599
+600,1,These panic attacks may lead to worrying about them happening again or avoiding situations in which they've occurred.,600
+601,1,"Selective mutism is a consistent failure of children to speak in certain situations, such as school, even when they can speak in other situations, such as at home with close family members.",601
+602,1,"This can interfere with school, work and social functioning.",602
+603,1,Separation anxiety disorder is a childhood disorder characterized by anxiety that's excessive for the child's developmental level and related to separation from parents or others who have parental roles.,603
+604,1,"Social anxiety disorder (social phobia) involves high levels of anxiety, fear and avoidance of social situations due to feelings of embarrassment, self-consciousness and concern about being judged or viewed negatively by others.",604
+605,1,Specific phobias are characterized by major anxiety when you're exposed to a specific object or situation and a desire to avoid it.,605
+606,1,Phobias provoke panic attacks in some people.,606
+607,1,"Substance-induced anxiety disorder is characterized by symptoms of intense anxiety or panic that are a direct result of misusing drugs, taking medications, being exposed to a toxic substance or withdrawal from drugs.",607
+608,1,Other types of anxiety disorders.,608
+609,1,Certain types of anxiety disorders or phobias don't fit neatly into a category.,609
+610,1,But they cause major distress and disrupt daily life.,610
+611,1,"When to see a doctor
+See your doctor if:
+
+You feel like you're worrying too much and it's interfering with your work, relationships or other parts of your life.",611
+612,1,"Your fear, worry or anxiety is upsetting to you and difficult to control.",612
+613,1,"You feel depressed, have trouble with alcohol or drug use, or have other mental health concerns along with anxiety.",613
+614,1,You think your anxiety could be linked to a physical health problem.,614
+615,1,You have suicidal thoughts or behaviors.,615
+616,1,"If this is the case, contact your provider right away.",616
+617,1,Or contact a suicide hotline.,617
+618,1,", call or text 988 to reach the 988 Suicide & Crisis Lifeline, which is available 24 hours a day, every day.",618
+619,1,Or use the Lifeline Chat.,619
+620,1,Services are free and private.,620
+621,1,"Your worries may not go away on their own, and they may get worse over time if you don't seek help.",621
+622,1,See your doctor or a mental health provider before your anxiety gets worse.,622
+623,1,It's easier to treat if you get help early.,623
+624,1,Preventive Services Task Force recommends screening children and teens ages 8 to 18 for anxiety.,624
+625,1,This screening is for those who don't have a diagnosis of anxiety disorder.,625
+626,1,It's important because many children and teens have high levels of anxiety but they may not show it.,626
+627,1,The task force has not yet suggested how often this screening should happen.,627
+628,1,The causes of anxiety disorders aren't fully understood.,628
+629,1,Life experiences such as traumatic events appear to trigger anxiety disorders in people who are already prone to anxiety.,629
+630,1,Inherited traits also can be a factor.,630
+631,1,"Medical causes
+For some people, anxiety may be linked to an underlying health issue.",631
+632,1,"In some cases, anxiety signs and symptoms are the first indicators of a medical illness.",632
+633,1,"If your doctor suspects your anxiety may have a medical cause, he or she may order tests to look for signs of a problem.",633
+634,1,"Examples of medical problems that can be linked to anxiety include:
+
+Heart disease.",634
+635,1,"Thyroid problems, such as hyperthyroidism.",635
+636,1,"Respiratory disorders, such as chronic obstructive pulmonary disease (COPD) and asthma.",636
+637,1,Drug misuse or withdrawal.,637
+638,1,"Withdrawal from alcohol, anti-anxiety medications (benzodiazepines) or other medications.",638
+639,1,Chronic pain or irritable bowel syndrome.,639
+640,1,Rare tumors that produce certain fight-or-flight hormones.,640
+641,1,Sometimes anxiety can be a side effect of certain medications.,641
+642,1,"It's possible that your anxiety may be due to an underlying medical condition if:
+
+You don't have any blood relatives (such as a parent or sibling) with an anxiety disorder.",642
+643,1,You didn't have an anxiety disorder as a child.,643
+644,1,You don't avoid certain things or situations because of anxiety.,644
+645,1,You have a sudden occurrence of anxiety that seems unrelated to life events and you didn't have a previous history of anxiety.,645
+646,1,"Risk factors
+These factors may increase your risk of developing an anxiety disorder:
+
+Trauma.",646
+647,1,Children who endured abuse or trauma or witnessed traumatic events are at higher risk of developing an anxiety disorder at some point in life.,647
+648,1,Adults who experience a traumatic event also can develop anxiety disorders.,648
+649,1,Stress due to an illness.,649
+650,1,Having a health condition or serious illness can cause significant worry about issues such as your treatment and your future.,650
+651,1,"A big event or a buildup of smaller stressful life situations may trigger excessive anxiety — for example, a death in the family, work stress or ongoing worry about finances.",651
+652,1,People with certain personality types are more prone to anxiety disorders than others are.,652
+653,1,Other mental health disorders.,653
+654,1,"People with other mental health disorders, such as depression, often also have an anxiety disorder.",654
+655,1,Having blood relatives with an anxiety disorder.,655
+656,1,Anxiety disorders can run in families.,656
+657,1,Drug or alcohol use or misuse or withdrawal can cause or worsen anxiety.,657
+658,1,"Complications
+Having an anxiety disorder does more than make you worry.",658
+659,1,"It can also lead to, or worsen, other mental and physical conditions, such as:
+
+Depression (which often occurs with an anxiety disorder) or other mental health disorders.",659
+660,1,Trouble sleeping (insomnia).,660
+661,1,Digestive or bowel problems.,661
+662,1,Headaches and chronic pain.,662
+663,1,Problems functioning at school or work.,663
+664,1,"Prevention
+There's no way to predict for certain what will cause someone to develop an anxiety disorder, but you can take steps to reduce the impact of symptoms if you're anxious:
+
+Get help early.",664
+665,1,"Anxiety, like many other mental health conditions, can be harder to treat if you wait.",665
+666,1,Participate in activities that you enjoy and that make you feel good about yourself.,666
+667,1,"Enjoy social interaction and caring relationships, which can lessen your worries.",667
+668,1,Avoid alcohol or drug use.,668
+669,1,Alcohol and drug use can cause or worsen anxiety.,669
+670,1,"If you're addicted to any of these substances, quitting can make you anxious.",670
+671,1,"If you can't quit on your own, see your doctor or find a support group to help you.",671
+672,1,"What is lung cancer?
+Lung cancer is cancer that forms in tissues of the lung, usually in the cells that line the air passages.",672
+673,1,It is the leading cause of cancer death in both men and women.,673
+674,1,There are two main types: small cell lung cancer and non-small cell lung cancer.,674
+675,1,These two types grow differently and are treated differently.,675
+676,1,Non-small cell lung cancer is the more common type.,676
+677,1,"Who is more likely to develop lung cancer?
+Anyone can develop lung cancer, but certain factors raise your risk of getting it:
+
+Smoking.",677
+678,1,This is the most important risk factor for lung cancer.,678
+679,1,Tobacco smoking causes about 9 out of 10 cases of lung cancer in men and about 8 out of 10 cases of lung cancer in women.,679
+680,1,"The more years you smoke and the more cigarettes you smoke each day, the more your risk goes up.",680
+681,1,Your risk is also greater if you smoke a lot and drink alcohol every day or take beta carotene supplements.,681
+682,1,"If you have quit smoking, your risk will be lower than if you had kept smoking.",682
+683,1,But you will still have a higher risk than people who never smoked.,683
+684,1,"Secondhand smoke, which is the combination of the smoke that comes from a cigarette and the smoke breathed out by a smoker.",684
+685,1,"When you breathe in secondhand smoke, you are exposed to the same cancer-causing agents as smokers, although in smaller amounts.",685
+686,1,A family history of lung cancer.,686
+687,1,"Being exposed to asbestos, arsenic, chromium, beryllium, nickel, soot, or tar in the workplace.",687
+688,1,"Being exposed to radiation, for example from:
+Radiation therapy to the breast or chest
+Radon in the home or workplace
+Certain imaging tests such as CT scans
+HIV infection.",688
+689,1,Your risk is higher if you have HIV.,689
+690,1,"However, smoking rates are higher in people who have HIV, so it's not clear whether the increased risk is from the HIV infection or from smoking.",690
+691,1,Studies show that living in areas with higher levels of air pollution increases your risk of lung cancer.,691
+692,1,"What are the symptoms of lung cancer?
+Lung cancer may not cause any signs or symptoms until the cancer is advanced.",692
+693,1,Sometimes the cancer is found during a chest x-ray done for another condition.,693
+694,1,"The symptoms of lung cancer may include:
+
+Chest pain or discomfort
+A cough that doesn't go away or gets worse over time
+Coughing up blood
+Trouble breathing
+Wheezing
+Hoarseness
+Loss of appetite
+Weight loss for no known reason
+Feeling very tired
+Trouble swallowing
+Swelling in the face and/or veins in the neck
+How is lung cancer diagnosed?
+To find out if you have lung cancer, your health care provider:
+
+Will take your medical history, which includes asking about your symptoms
+Will ask about your family history
+Will do a physical exam
+May order certain imaging tests, such as a chest x-ray or chest CT scan
+May order lab tests, including tests of your blood and sputum
+May do a procedure to take a biopsy of the lung
+If you do have lung cancer, your provider will do other tests to find out if it has spread through the lungs, lymph nodes, and the rest of the body.",694
+695,1,This is called staging.,695
+696,1,Knowing the type and stage of lung cancer you have helps your provider decide what kind of treatment you need.,696
+697,1,"If you have small-cell lung cancer, your provider may also do genetic testing to look for certain gene changes (variants) in your cancer cells.",697
+698,1,The results of the testing may help guide treatment.,698
+699,1,"What are the treatments for lung cancer?
+For most patients with lung cancer, current treatments do not cure the cancer.",699
+700,1,"Your treatment will depend on which type of lung cancer you have, how far it has spread, your overall health, and other factors.",700
+701,1,You may get more than one type of treatment.,701
+702,1,"The treatments for small cell lung cancer may include:
+
+Surgery.",702
+703,1,"Laser therapy, which uses a laser beam to kill cancer cells.",703
+704,1,Endoscopic stent placement.,704
+705,1,"An endoscope is a thin, tube-like instrument used to look at tissues inside the body.",705
+706,1,It may be used to put in a device called a stent.,706
+707,1,The stent helps to open an airway that has been blocked by abnormal tissue.,707
+708,1,"The treatments for non-small cell lung cancer may include:
+
+Surgery.",708
+709,1,"Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells.",709
+710,1,"Photodynamic therapy (PDT), which uses a medicine and a certain type of laser light to kill cancer cells.",710
+711,1,"Cryosurgery, which uses an instrument to freeze and destroy abnormal tissue.",711
+712,1,"Electrocautery, a treatment that uses a probe or needle heated by an electric current to destroy abnormal tissue.",712
+713,1,"Can lung cancer be prevented?
+Avoiding the risk factors may help prevent lung cancer.",713
+714,1,"For example, you can:
+
+Quit smoking.",714
+715,1,"And if you don't smoke, don't start.",715
+716,1,Lower your exposure to hazardous substances at work.,716
+717,1,Lower your exposure to radon.,717
+718,1,Radon tests can show whether your home has high levels of radon.,718
+719,1,You can buy a test kit yourself or hire a professional to do the test.,719
+720,1,"Good nutrition is important in keeping people healthy throughout their lives - when they are babies, toddlers, children, adults, and then older adults.",720
+721,1,"It can help people live longer and lower their risk of health problems like heart disease, type 2 diabetes, obesity, and more.",721
+722,1,Good nutrition is about healthy eating.,722
+723,1,This means regularly choosing healthy foods and beverages.,723
+724,1,A healthy eating plan should give your body the energy and nutrients that you need every day.,724
+725,1,"Nutrients include proteins, carbohydrates, fats, vitamins, minerals, and water.",725
+726,1,"The plan should also take into account your preferences, cultural traditions, and budget.",726
+727,1,Healthy eating does not mean that you have to follow a very strict diet or eat only a few specific types of food.,727
+728,1,It doesn't mean that you can never eat your favorite foods.,728
+729,1,"You can eat a variety of foods, including less healthy favorites.",729
+730,1,But it's important not to eat too much of those foods or have them too often.,730
+731,1,You can balance those foods with healthier foods and regular physical activity.,731
+732,1,Cancer arises from the transformation of normal cells into tumour cells in a multi-stage process that generally progresses from a pre-cancerous lesion to a malignant tumour.,732
+733,1,"These changes are the result of the interaction between a person's genetic factors and three categories of external agents, including:
+
+physical carcinogens, such as ultraviolet and ionizing radiation;
+chemical carcinogens, such as asbestos, components of tobacco smoke, alcohol, aflatoxin (a food contaminant), and arsenic (a drinking water contaminant); and
+biological carcinogens, such as infections from certain viruses, bacteria, or parasites.",733
+734,1,"WHO, through its cancer research agency, the International Agency for Research on Cancer (IARC), maintains a classification of cancer-causing agents.",734
+735,1,"The incidence of cancer rises dramatically with age, most likely due to cumulative exposure to risk factors that increase with age.",735
+736,1,The overall risk accumulation is combined with the tendency for cellular repair mechanisms to be less effective as a person grows older.,736
+737,1,"Risk factors
+Tobacco use, alcohol consumption, unhealthy diet, physical inactivity and air pollution are risk factors for cancer and other noncommunicable diseases.",737
+738,1,Some chronic infections are risk factors for cancer; this is a particular issue in low- and middle-income countries.,738
+739,1,"Approximately 10% of cancers diagnosed in 2022 globally were attributed to carcinogenic infections, including Helicobacter pylori, human papillomavirus (HPV), hepatitis B virus, hepatitis C virus, and Epstein-Barr virus (2).",739
+740,1,"Hepatitis B and C viruses and some types of HPV increase the risk for liver and cervical cancer, respectively.",740
+741,1,Infection with HIV increases the risk of developing cervical cancer six-fold and substantially increases the risk of developing selected other cancers such as Kaposi sarcoma.,741
+742,1,"Reducing the burden
+Approximately 38% of cancers can currently be prevented by avoiding risk factors and implementing existing evidence-based prevention strategies.",742
+743,1,The cancer burden can also be reduced through early detection of cancer and appropriate treatment and care of patients who develop cancer.,743
+744,1,Many cancers have a high chance of cure if diagnosed early and treated appropriately.,744
+745,1,"Prevention
+Cancer risk can be reduced by:
+
+not using tobacco;
+maintaining a healthy body weight;
+eating a healthy diet, including fruit and vegetables;
+doing physical activity on a regular basis;
+avoiding or reducing consumption of alcohol;
+getting vaccinated against HPV and hepatitis B if you belong to a group for which vaccination is recommended;
+avoiding ultraviolet radiation exposure (which primarily results from exposure to the sun and artificial tanning devices) and/or using sun protection measures;
+ensuring safe and appropriate use of radiation in health care (for diagnostic and therapeutic purposes);
+minimizing occupational exposure to ionizing radiation; and
+reducing exposure to outdoor air pollution and indoor air pollution, including radon (a radioactive gas produced from the natural decay of uranium, which can accumulate in buildings — homes, schools and workplaces).",745
+746,1,"Early detection
+Cancer mortality is reduced when cases are detected and treated early.",746
+747,1,There are two components of early detection: early diagnosis and screening.,747
+748,1,"Early diagnosis
+When identified early, cancer is more likely to respond to treatment and can result in a greater probability of survival with less morbidity, as well as less expensive treatment.",748
+749,1,Significant improvements can be made in the lives of cancer patients by detecting cancer early and avoiding delays in care.,749
+750,1,"Early diagnosis consists of three components:
+
+being aware of the symptoms of different forms of cancer and of the importance of seeking medical advice when abnormal findings are observed;
+access to clinical evaluation and diagnostic services; and
+timely referral to treatment services.",750
+751,1,Early diagnosis of symptomatic cancers is relevant in all settings and the majority of cancers.,751
+752,1,"Cancer programmes should be designed to reduce delays in, and barriers to, diagnosis, treatment and supportive care.",752
+753,1,"Screening
+Screening aims to identify individuals with findings suggestive of a specific cancer or pre-cancer before they have developed symptoms.",753
+754,1,"When abnormalities are identified during screening, further tests to establish a definitive diagnosis should follow, as should referral for treatment if cancer is proven to be present.",754
+755,1,Screening programmes are effective for some but not all cancer types and in general are far more complex and resource-intensive than early diagnosis as they require special equipment and dedicated personnel.,755
+756,1,"Even when screening programmes are established, early diagnosis programmes are still necessary to identify those cancer cases occurring in people who do not meet the age or risk factor criteria for screening.",756
+757,1,Patient selection for screening programmes is based on age and risk factors to avoid excessive false positive studies.,757
+758,1,"Examples of screening methods are:
+
+HPV test (including HPV DNA and mRNA test), as preferred modality for cervical cancer screening; and
+mammography screening for breast cancer for women aged 50–69 residing in settings with strong or relatively strong health systems.",758
+759,1,Quality assurance is required for both screening and early diagnosis programmes.,759
+760,1,"Treatment
+A correct cancer diagnosis is essential for appropriate and effective treatment because every cancer type requires a specific treatment regimen.",760
+761,1,"Treatment usually includes surgery, radiotherapy, and/or systemic therapy (chemotherapy, hormonal treatments, targeted biological therapies).",761
+762,1,Proper selection of a treatment regimen takes into consideration both the cancer and the individual being treated.,762
+763,1,Completion of the treatment protocol in a defined period of time is important to achieve the predicted therapeutic result.,763
+764,1,Determining the goals of treatment is an important first step.,764
+765,1,The primary goal is generally to cure cancer or to considerably prolong life.,765
+766,1,Improving the patient's quality of life is also an important goal.,766
+767,1,"This can be achieved by support for the patient’s physical, psychosocial and spiritual well-being and palliative care in terminal stages of cancer.",767
+768,1,"Some of the most common cancer types, such as breast cancer, cervical cancer, oral cancer, and colorectal cancer, have high cure probabilities when detected early and treated according to best practices.",768
+769,1,"Some cancer types, such as testicular seminoma and different types of leukaemia and lymphoma in children, also have high cure rates if appropriate treatment is provided, even when cancerous cells are present in other areas of the body.",769
+770,1,"There is, however, a significant variation in treatment availability between countries of different income levels; most countries do not fully include essential cancer care services – including prevention, screening, diagnosis, treatment and palliative care – in their publicly-financed health-benedfit packages, highlighting significant gaps on the path to universal health coverage (3).",770
+771,1,"Palliative care
+Palliative care is treatment to relieve, rather than cure, symptoms and suffering caused by cancer and to improve the quality of life of patients and their families.",771
+772,1,Palliative care can help people live more comfortably.,772
+773,1,It is particularly needed in places with a high proportion of patients in advanced stages of cancer where there is little chance of cure.,773
+774,1,"Relief from physical, psychosocial, and spiritual problems through palliative care is possible for more than 90% of patients with advanced stages of cancer.",774
+775,1,"Effective public health strategies, comprising community- and home-based care, are essential to provide pain relief and palliative care for patients and their families.",775
+776,1,"Improved access to oral morphine is strongly recommended for the treatment of moderate to severe cancer pain, suffered by over 80% of people with cancer in the terminal phase.",776
+777,1,"Germs, or microbes, are found everywhere - in the air, soil, and water.",777
+778,1,There are also germs on your skin and in your body.,778
+779,1,"Many of them are harmless, and some can even be helpful.",779
+780,1,But some of them can make you sick.,780
+781,1,Infectious diseases are diseases that are caused by germs.,781
+782,1,"There are four main types of germs:
+
+Bacteria are one-celled germs that multiply quickly.",782
+783,1,"They may give off toxins, which are harmful chemicals that can make you sick.",783
+784,1,Strep throat and urinary tract infections are common bacterial infections.,784
+785,1,Viruses are tiny capsules that contain genetic material.,785
+786,1,They invade your cells so that they can multiply.,786
+787,1,"This can kill, damage, or change the cells and make you sick.",787
+788,1,Viral infections include HIV and the common cold.,788
+789,1,"Fungi are primitive plant-like organisms such as mushrooms, mold, mildew, and yeasts.",789
+790,1,Athlete's foot and yeast infections are common fungal infections.,790
+791,1,Parasites are animals or plants that survive by living on or in other living things.,791
+792,1,Malaria and head lice are infections that are caused by parasites.,792
+793,1,"How can you get infectious diseases?
+There are many different ways that you can get an infectious disease, depending on the type of germ.",793
+794,1,"They can include:
+
+Through direct contact with a person who is sick.",794
+795,1,"This includes kissing, touching, sneezing, coughing, and sexual contact.",795
+796,1,"If you are pregnant, you can pass some germs to your fetus.",796
+797,1,"Through indirect contact, when you touch something that has germs on it.",797
+798,1,"For example, you could get germs if someone who is sick touched a door handle, and then you touch it.",798
+799,1,Through insect or animal bites.,799
+800,1,"Through contaminated food, water, soil, or plants.",800
+801,1,"What are the symptoms of infectious diseases?
+Infectious diseases can cause many different symptoms.",801
+802,1,"Some are so mild that you may not even notice any symptoms, while others can be life-threatening.",802
+803,1,"What are the treatments for infectious diseases?
+There are treatments for some infectious diseases, such as antibiotic, antiviral, antifungal and anti-parasitic medicines.",803
+804,1,"But for other infections, such as some caused by viruses, you can only treat your symptoms while you wait for your immune system to fight off the germ.",804
+805,1,"Can infectious diseases be prevented?
+You can take steps to help prevent many infectious diseases:
+
+Get vaccinated.",805
+806,1,Wash your hands often.,806
+807,1,Pay attention to food safety.,807
+808,1,Avoid contact with wild animals.,808
+809,1,Use a latex condom every time you have sex.,809
+810,1,"If your or your partner is allergic to latex, you can use polyurethane condoms.",810
+811,1,"Don't share items such as toothbrushes, combs, and straws.",811
+812,1,"Vaccines are injections (shots), liquids, pills, or nasal sprays that you take to teach your body's immune system to recognize and defend against harmful germs.",812
+813,1,"For example, there are vaccines to protect against diseases caused by:
+
+Viruses, like the ones that cause the flu and COVID-19
+Bacteria, including tetanus, diphtheria, and pertussis
+What are the types of vaccines?
+There are several types of vaccines:
+
+Live-attenuated vaccines use a weakened form of the germ.",813
+814,1,Inactivated vaccines use a killed version of the germ.,814
+815,1,"Subunit, recombinant, polysaccharide, and conjugate vaccines use only specific pieces of the germ, such as its protein, sugar, or casing.",815
+816,1,Toxoid vaccines use a toxin (harmful product) made by the germ.,816
+817,1,"mRNA vaccines use messenger RNA, which gives your cells instructions for how to make a protein (or piece of a protein) of the germ.",817
+818,1,"Viral vector vaccines use genetic material, which gives your cells instructions for making a protein of the germ.",818
+819,1,"These vaccines also contain a different, harmless virus that helps get the genetic material into your cells.",819
+820,1,"These vaccines may work in different ways, but they all spark an immune response.",820
+821,1,The immune response is the way your body defends itself against substances it sees as foreign or harmful.,821
+822,1,These substances include germs that can cause disease.,822
+823,1,"What happens in an immune response?
+There are different steps in the immune response:
+
+When a germ invades, your body sees it as foreign.",823
+824,1,Your immune system helps your body fight off the germ.,824
+825,1,Your immune system also remembers the germ.,825
+826,1,It will attack the germ if it ever invades again.,826
+827,1,"This ""memory"" protects you against the disease that the germ causes.",827
+828,1,This type of protection is called immunity.,828
+829,1,"What are immunization and vaccination?
+Immunization is the process of becoming protected against a disease.",829
+830,1,"But it can also mean the same thing as vaccination, which is getting a vaccine to become protected against a disease.",830
+831,1,"Why are vaccines important?
+Vaccines are important because they protect you against many diseases.",831
+832,1,These diseases can be very serious.,832
+833,1,So getting immunity from a vaccine is safer than getting immunity by being sick with the disease.,833
+834,1,"For a few vaccines, getting vaccinated can actually give you a better immune response than getting the disease would.",834
+835,1,But vaccines don't just protect you.,835
+836,1,They also protect the people around you through community immunity.,836
+837,1,"What is community immunity?
+Community immunity, or herd immunity, is the idea that vaccines can help keep communities healthy.",837
+838,1,"Normally, germs can travel quickly through a community and make a lot of people sick.",838
+839,1,"If enough people get sick, it can lead to an outbreak.",839
+840,1,"But when enough people are vaccinated against a certain disease, it's harder for that disease to spread to others.",840
+841,1,This type of protection means that the entire community is less likely to get the disease.,841
+842,1,Community immunity is especially important for people who can't get certain vaccines.,842
+843,1,"For example, they may not be able to get a vaccine because they have weakened immune systems.",843
+844,1,Others may be allergic to certain vaccine ingredients.,844
+845,1,And newborn babies are too young to get some vaccines.,845
+846,1,Community immunity can help to protect them all.,846
+847,1,"Are vaccines safe?
+Vaccines are safe.",847
+848,1,They must go through extensive safety testing and evaluation before they are approved in the United States.,848
+849,1,"What is a vaccine schedule?
+A vaccine, or immunization, schedule lists which vaccines are recommended for different groups of people.",849
+850,1,"It includes who should get the vaccines, how many doses they need, and when they should get them.",850
+851,1,"In the United States, the Centers for Disease Control and Prevention (CDC) publishes the vaccine schedule.",851
+852,1,It's important for both children and adults to get their vaccines according to the schedule.,852
+853,1,Following the schedule allows them to get protection from the diseases at exactly the right time.,853
+854,1,"Vaccines can prevent infectious diseases that once killed or harmed many infants, children, and adults.",854
+855,1,"Without vaccines, your child is at risk for getting seriously ill and suffering pain, disability, and even death from diseases like measles and whooping cough.",855
+856,1,"The main risks associated with getting vaccines are side effects, which are almost always mild (redness and swelling at the injection site) and go away within a few days.",856
+857,1,"Serious side effects after vaccination, such as a severe allergic reaction, are very rare and doctors and clinic staff are trained to deal with them.",857
+858,1,The disease-prevention benefits of getting vaccines are much greater than the possible side effects for almost all children.,858
+859,1,"The only exceptions to this are cases in which a child has a serious chronic medical condition like cancer or a disease that weakens the immune system, or has had a severe allergic reaction to a previous vaccine dose.",859
+860,1,"Vaccines, like any medication, may cause some side effects.",860
+861,1,"Most of these side effects are very minor, like soreness where the shot was given, fussiness, or a low-grade fever.",861
+862,1,These side effects typically only last a couple of days and are treatable.,862
+863,1,"For example, you can apply a cool, wet washcloth on the sore area to ease discomfort.",863
+864,1,Vaccines do not overload the immune system.,864
+865,1,"Every day, a healthy baby’s immune system successfully fights off thousands of germs.",865
+866,1,"Antigens are parts of germs that cause the body’s immune system to go to work to build antibodies, which fight off diseases.",866
+867,1,"The antigens in vaccines come from the germs themselves, but the germs are weakened or killed so they cannot cause serious illness.",867
+868,1,"Even if babies receive several vaccinations in one day, vaccines contain only a tiny fraction of the antigens they encounter every day in their environment.",868
+869,1,Vaccines give your child the antibodies they need to fight off serious vaccine-preventable diseases.,869
+870,1,"The recommended schedule protects infants and children by providing protection early in life, before they come into contact with life-threatening diseases.",870
+871,1,Children receive vaccinations early because they are susceptible to diseases at a young age.,871
+872,1,"Can I wait until my child goes to school to catch up on immunizations?
+No.",872
+873,1,"Before entering school, young children can be exposed to vaccine-preventable diseases.",873
+874,1,Children under age 5 are especially susceptible to diseases because their immune systems have not built up the necessary defenses to fight infection.,874
+875,1,"Why do adolescents need vaccines?
+Vaccines are recommended throughout our lives to protect against serious diseases.",875
+876,1,"As protection from childhood vaccines wears off, adolescents need vaccines that will extend protection.",876
+877,1,"Adolescents need protection from additional infections as well, before the risk of exposure increases.",877
+878,1,"Why are multiple doses needed for each vaccine?
+Getting every recommended dose of each vaccine provides your child with the best protection possible.",878
+879,1,"Depending on the vaccine, your child will need more than one dose to build high enough immunity to help prevent disease or to boost immunity that fades over time.",879
+880,1,"Your child may also receive more than one dose to make sure they are protected if they did not get immunity from a first dose, or to protect them against germs that change over time, like flu.",880
+881,1,Every dose is important because each protects against an infectious disease that can be especially serious for infants and very young children.,881
+882,1,"Protection from Diseases
+Do infants have natural immunity?
+Babies may get some temporary protection from mom during the last few weeks of pregnancy, but only for diseases to which mom is immune.",882
+883,1,"Breastfeeding may also protect your baby temporarily from minor infections, like colds.",883
+884,1,"These antibodies do not last long, leaving your baby vulnerable to disease.",884
+885,1,"Haven't we gotten rid of most of these diseases in this country?
+Some vaccine-preventable diseases, like pertussis (whooping cough) and chickenpox, remain common in the United States.",885
+886,1,"On the other hand, other diseases vaccines prevent are no longer common in this country because of vaccines.",886
+887,1,"If we stopped vaccinating, the few cases we have in the United States could very quickly become tens or hundreds of thousands of cases.",887
+888,1,"Even though many serious vaccine-preventable diseases are uncommon in the United States, some are common in other parts of the world.",888
+889,1,"Even if your family does not travel internationally, you could come into contact with international travelers anywhere in your community.",889
+890,1,Children who don’t receive all vaccinations and are exposed to a disease can become seriously sick and spread it through a community.,890
+891,1,"What are the signs of stroke in men and women?
+Sudden trouble walking, dizziness, loss of balance, or lack of coordination.",891
+892,1,Sudden trouble seeing in one or both eyes.,892
+893,1,"Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body.",893
+894,1,"Sudden confusion, trouble speaking, or difficulty understanding speech.",894
+895,1,Sudden severe headache with no known cause.,895
+896,1,Call 9-1-1 right away if you or someone else has any of these symptoms.,896
+897,1,to help stroke patients get the treatments they need.,897
+898,1,The stroke treatments that work best are available only if the stroke is recognized and diagnosed within 3 hours of the first symptoms.,898
+899,1,Stroke patients may not be eligible for these treatments if they don't arrive at the hospital in time.,899
+900,1,"If you think someone may be having a stroke, B.",900
+901,1,"and do the following test:
+
+B—Balance Loss: Ask the person if they are feeling off-balance or dizzy.",901
+902,1,E—Eye (Vision) Changes: Ask the person if they have trouble seeing normally.,902
+903,1,F—Face: Ask the person to smile.,903
+904,1,"Does one side of the face droop?
+A—Arms: Ask the person to raise both arms.",904
+905,1,"Does one arm drift downward?
+S—Speech: Ask the person to repeat a simple phrase.",905
+906,1,"Is the speech slurred or strange?
+T—Time: If you see any of these signs, call 9-1-1 right away.",906
+907,1,Note the time when any symptoms first appear.,907
+908,1,This information helps health care providers determine the best treatment.,908
+909,1,Do not drive to the hospital or let someone else drive you.,909
+910,1,Call 9-1-1 for an ambulance so that medical personnel can begin life-saving treatment on the way to the emergency room.,910
+911,1,"What should I do to treat a transient ischemic attack (""mini-stroke"")?
+If your stroke symptoms go away after a few minutes, you may have had a transient ischemic attack (TIA), also sometimes called a ""mini-stroke.",911
+912,1,""" Although brief, a TIA is a sign of a serious condition that will not go away without medical help.",912
+913,1,"Unfortunately, because TIAs clear up, many people ignore them.",913
+914,1,But paying attention to a TIA can save your life.,914
+915,1,"If you think you or someone you know has had a TIA, tell a health care team about the symptoms right away.",915
+916,1,"Key facts
+
+There are around a billion cases of seasonal influenza annually, including 3–5 million cases of severe illness.",916
+917,1,It causes 290 000 to 650 000 respiratory deaths annually.,917
+918,1,Ninety-nine percent of deaths in children under 5 years of age with influenza-related lower respiratory tract infections are in developing countries.,918
+919,1,Symptoms begin 1–4 days after infection and usually last around a week.,919
+920,1,"Overview
+Seasonal influenza (the flu) is an acute respiratory infection caused by influenza viruses.",920
+921,1,It is common in all parts of the world.,921
+922,1,Most people recover without treatment.,922
+923,1,Influenza spreads easily between people when they cough or sneeze.,923
+924,1,Vaccination is the best way to prevent the disease.,924
+925,1,"Symptoms of influenza include acute onset of fever, cough, sore throat, body aches and fatigue.",925
+926,1,Treatment should aim to relieve symptoms.,926
+927,1,People with the flu should rest and drink plenty of liquids.,927
+928,1,Most people will recover on their own within a week.,928
+929,1,Medical care may be needed in severe cases and for people with risk factors.,929
+930,1,"There are 4 types of influenza viruses, types A, B, C and D.",930
+931,1,Influenza A and B viruses circulate and cause seasonal epidemics of disease.,931
+932,1,Influenza A viruses are further classified into subtypes according to the combinations of the proteins on the surface of the virus.,932
+933,1,Currently circulating in humans are subtype A(H1N1) and A(H3N2) influenza viruses.,933
+934,1,The A(H1N1) is also written as A(H1N1)pdm09 as it caused the pandemic in 2009 and replaced the previous A(H1N1) virus which had circulated prior to 2009.,934
+935,1,Only influenza type A viruses are known to have caused pandemics.,935
+936,1,Influenza B viruses are not classified into subtypes but can be broken down into lineages.,936
+937,1,Influenza type B viruses belong to either B/Yamagata or B/Victoria lineage.,937
+938,1,"Influenza C virus is detected less frequently and usually causes mild infections, thus does not present public health importance.",938
+939,1,Influenza D viruses primarily affect cattle and are not known to infect or cause illness in people.,939
+940,1,"Signs and symptoms
+Symptoms of influenza usually begin around 2 days after being infected by someone who has the virus.",940
+941,1,"Symptoms include:
+
+sudden onset of fever
+cough (usually dry)
+headache
+muscle and joint pain
+severe malaise (feeling unwell)
+sore throat
+runny nose.",941
+942,1,The cough can be severe and can last 2 weeks or more.,942
+943,1,Most people recover from fever and other symptoms within a week without requiring medical attention.,943
+944,1,"However, influenza can cause severe illness or death, especially in people at high risk.",944
+945,1,Influenza can worsen symptoms of other chronic diseases.,945
+946,1,In severe cases influenza can lead to pneumonia and sepsis.,946
+947,1,People with other medical issues or who have severe symptoms should seek medical care.,947
+948,1,Hospitalization and death due to influenza occur mainly among high-risk groups.,948
+949,1,In industrialized countries most deaths associated with influenza occur among people aged 65 years or older (1).,949
+950,1,"The effects of seasonal influenza epidemics in developing countries are not fully known, but research estimates that 99% of deaths in children under 5 years of age with influenza related lower respiratory tract infections are in developing countries (2).",950
+951,1,"Epidemiology
+All age groups can be affected but there are groups that are more at risk than others.",951
+952,1,"People at greater risk of severe disease or complications when infected are pregnant women, children under 5 years of age, older people, individuals with chronic medical conditions (such as chronic cardiac, pulmonary, renal, metabolic, neurodevelopmental, liver or hematologic diseases) and individuals with immunosuppressive conditions/treatments (such as HIV, receiving chemotherapy or steroids, or malignancy).",952
+953,1,"Health and care workers are at high risk of acquiring influenza virus infection due to increased exposure to the patients, and of further spreading particularly to vulnerable individuals.",953
+954,1,Vaccination can protect health workers and the people around them.,954
+955,1,Epidemics can result in high levels of worker/school absenteeism and productivity losses.,955
+956,1,Clinics and hospitals can be overwhelmed during peak illness periods.,956
+957,1,"Transmission
+Seasonal influenza spreads easily, with rapid transmission in crowded areas including schools and nursing homes.",957
+958,1,"When an infected person coughs or sneezes, droplets containing viruses (infectious droplets) are dispersed into the air and can infect persons in close proximity.",958
+959,1,The virus can also be spread by hands contaminated with influenza viruses.,959
+960,1,"To prevent transmission, people should cover their mouth and nose with a tissue when coughing and wash their hands regularly.",960
+961,1,"In temperate climates, seasonal epidemics occur mainly during winter, while in tropical regions, influenza may occur throughout the year, causing outbreaks more irregularly.",961
+962,1,"The time from infection to illness, known as the incubation period, is about 2 days, but ranges from 1–4 days.",962
+963,1,"Diagnosis
+Most cases of human influenza are clinically diagnosed.",963
+964,1,"However, during periods of low influenza activity or outside of epidemics situations, the infection of other respiratory viruses (e.",964
+965,1,"SARS-CoV-2, rhinovirus, respiratory syncytial virus, parainfluenza and adenovirus) can also present as influenza-like illness (ILI), which makes the clinical differentiation of influenza from other pathogens difficult.",965
+966,1,Collection of appropriate respiratory samples and the application of a laboratory diagnostic test is required to establish a definitive diagnosis.,966
+967,1,"Proper collection, storage and transport of respiratory specimens is the essential first step for laboratory detection of influenza virus infections.",967
+968,1,"Laboratory confirmation is commonly performed using direct antigen detection, virus isolation, or detection of influenza-specific RNA by reverse transcriptase-polymerase chain reaction (RT-PCR).",968
+969,1,Various guidance on the laboratory techniques is published and updated by WHO.,969
+970,1,"Rapid diagnostic tests are used in clinical settings, but they have lower sensitivity compared to RT-PCR methods and their reliability depends largely on the conditions under which they are used.",970
+971,1,"Treatment
+Most people will recover from influenza on their own.",971
+972,1,People with severe symptoms or other medical conditions should seek medical care.,972
+973,1,"People with mild symptoms should:
+
+stay home to avoid infecting other people
+rest
+drink plenty of fluids
+treat other symptoms such as fever
+seek medical care if symptoms get worse.",973
+974,1,People at high risk or with severe symptoms should be treated with antiviral medications as soon as possible.,974
+975,1,"They include people who are:
+
+pregnant
+children under 59 months of age
+aged 65 years and older
+living with other chronic illnesses
+receiving chemotherapy
+living with suppressed immune systems due to HIV or other conditions.",975
+976,1,The WHO Global Influenza Surveillance and Response System (GISRS) monitors resistance to antivirals among circulating influenza viruses to provide timely evidence for national policies related to antiviral use.,976
+977,1,"Prevention
+Vaccination is the best way to prevent influenza.",977
+978,1,Safe and effective vaccines have been used for more than 60 years.,978
+979,1,Immunity from vaccination goes away over time so annual vaccination is recommended to protect against influenza.,979
+980,1,"The vaccine may be less effective in older people, but it will make the illness less severe and reduces the chance of complications and death.",980
+981,1,Vaccination is especially important for people at high risk of influenza complications and their carers.,981
+982,1,"Annual vaccination is recommended for:
+
+pregnant women
+children aged 6 months to 5 years
+people over age 65
+people with chronic medical conditions
+health workers.",982
+983,1,"Other ways to prevent influenza:
+
+wash and dry your hands regularly
+cover your mouth and nose when coughing or sneezing
+dispose of tissues correctly
+stay home when feeling unwell
+avoid close contact with sick people
+avoid touching your eyes, nose or mouth.",983
+984,1,"Vaccines
+Vaccines are updated routinely with new vaccines developed that contain viruses that match those circulating.",984
+985,1,Several inactivated influenza vaccines and recombinant influenza vaccines are available in injectable form.,985
+986,1,Live attenuated influenza vaccines are available as a nasal spray.,986
+987,1,"WHO response
+WHO, through the Global Influenza Programme and GISRS, in collaboration with other partners, continuously monitors influenza viruses and activity globally, recommends seasonal influenza vaccine compositions twice a year for the northern and southern hemisphere influenza seasons, guides countries in tropical and subtropical areas as to which formulation vaccines to use, supports decisions for timing of vaccination campaigns, and supports Member States to develop prevention and control strategies.",987
+988,1,"WHO works to strengthen national, regional and global influenza response capacities including diagnostics, antiviral susceptibility monitoring, disease surveillance and outbreak response, to increase vaccine coverage among high-risk groups, and to support research and development of new therapeutics and other countermeasures.",988
+989,1,Human immunodeficiency virus (HIV) is a virus that attacks the body’s immune system.,989
+990,1,Acquired immunodeficiency syndrome (AIDS) occurs at the most advanced stage of infection.,990
+991,1,"HIV targets the body’s white blood cells, weakening the immune system.",991
+992,1,"This makes it easier to get sick with diseases like tuberculosis, infections and some cancers.",992
+993,1,"HIV is spread from the body fluids of an infected person, including blood, breast milk, semen and vaginal fluids.",993
+994,1,"It is not spread by kisses, hugs or sharing food.",994
+995,1,It can also spread from a mother to her baby.,995
+996,1,HIV can be prevented and treated with antiretroviral therapy (ART).,996
+997,1,"Untreated HIV can progress to AIDS, often after many years.",997
+998,1,WHO now defines Advanced HIV Disease (AHD) as CD4 cell count less than 200 cells/mm3 or WHO stage 3 or 4 event in adults and adolescents.,998
+999,1,"All children younger than 5 years of age living with HIV are considered to have advanced HIV disease, regardless of clinical or immunological status.",999
+1000,1,"Signs and symptoms
+The signs and symptoms of HIV vary depending on the stage of infection.",1000
+1001,1,"HIV spreads more easily in the first few months after a person is infected, but many are unaware of their status until the later stages.",1001
+1002,1,In the first few weeks after being infected people may not experience symptoms.,1002
+1003,1,"Others may have an influenza-like illness including:
+
+fever
+headache
+rash
+sore throat.",1003
+1004,1,The infection progressively weakens the immune system.,1004
+1005,1,"This can cause other signs and symptoms:
+
+swollen lymph nodes
+weight loss
+fever
+diarrhoea
+cough.",1005
+1006,1,"Without treatment, people living with HIV infection can also develop severe illnesses:
+
+tuberculosis (TB)
+cryptococcal meningitis
+severe bacterial infections
+cancers such as lymphomas and Kaposi's sarcoma.",1006
+1007,1,"HIV can make other infections, such as hepatitis C, hepatitis B and mpox, get worse.",1007
+1008,1,"Transmission
+HIV can be transmitted via the exchange of body fluids from people living with HIV, including blood, breast milk, semen, and vaginal secretions.",1008
+1009,1,HIV can also be transmitted to a child during pregnancy and delivery.,1009
+1010,1,"People cannot become infected with HIV through ordinary day-to-day contact such as kissing, hugging, shaking hands, or sharing personal objects, food or water.",1010
+1011,1,People living with HIV who are taking ART and have an undetectable viral load will not transmit HIV to their sexual partners.,1011
+1012,1,Early access to ART and support to remain on treatment is therefore critical not only to improve the health of people living with HIV but also to prevent HIV transmission.,1012
+1013,1,"Risk factors
+Behaviours and conditions that put people at greater risk of contracting HIV include:
+
+having anal or vaginal sex without a condom;
+having another sexually transmitted infection (STI) such as syphilis, herpes, chlamydia, gonorrhoea and bacterial vaginosis;
+harmful use of alcohol or drugs in the context of sexual behaviour;
+sharing contaminated needles, syringes and other injecting equipment, or drug solutions when injecting drugs;
+receiving unsafe injections, blood transfusions, or tissue transplantation; and
+medical procedures that involve unsterile cutting or piercing; or accidental needle stick injuries, including among health workers.",1013
+1014,1,"Diagnosis
+HIV can be diagnosed through rapid diagnostic tests that provide same-day results.",1014
+1015,1,This greatly facilitates early diagnosis and linkage with treatment and prevention.,1015
+1016,1,People can also use HIV self-tests to test themselves.,1016
+1017,1,"However, no single test can provide a full HIV positive diagnosis; confirmatory testing is required, conducted by a qualified and trained health worker or community worker.",1017
+1018,1,HIV infection can be detected with great accuracy using WHO prequalified tests within a nationally approved testing strategy and algorithm.,1018
+1019,1,Most widely used HIV diagnostic tests detect antibodies produced by a person as part of their immune response to fight HIV.,1019
+1020,1,"In most cases, people develop antibodies to HIV within 28 days of infection.",1020
+1021,1,"During this time, people are in the so-called “window period” when they have low levels of antibodies which cannot be detected by many rapid tests, but they may still transmit HIV to others.",1021
+1022,1,People who have had a recent high-risk exposure and test negative can have a further test after 28 days.,1022
+1023,1,"Following a positive diagnosis, people should be retested before they are enrolled in treatment and care to rule out any potential testing or reporting error.",1023
+1024,1,"While testing for adolescents and adults has been made simple and efficient, this is not the case for babies born to HIV-positive mothers.",1024
+1025,1,"For children less than 18 months of age, rapid antibody testing is not sufficient to identify HIV infection – virological testing must be provided as early as birth or at 6 weeks of age.",1025
+1026,1,"New technologies are now available to perform this test at the point of care and enable same-day results, which will accelerate appropriate linkage with treatment and care.",1026
+1027,1,"Prevention
+HIV is a preventable disease.",1027
+1028,1,"The risk of HIV infection can be reduced by:
+
+using a male or female condom during sex
+being tested for HIV and other sexually transmitted infections
+being circumcised if you are a man
+using harm reduction services if you inject and use drugs.",1028
+1029,1,Pre-exposure prophylaxis (PrEP) is an additional prevention option.,1029
+1030,1,It is an antiretroviral medication used by HIV-negative people to reduce the risk of HIV acquisition.,1030
+1031,1,"WHO recommends the following PrEP methods :  
+
+oral tenofovir (TDF)-based PrEP  
+dapivirine vaginal ring
+long-acting injectable cabotegravir
+long-acting injectable lenacapavir.",1031
+1032,1,ARVs can also be used to prevent mothers from passing HIV to their children.,1032
+1033,1,People taking antiretroviral therapy (ART) and who have no evidence of virus in the blood will not pass HIV to their sexual partners.,1033
+1034,1,Access to testing and ART is an important part of preventing HIV.,1034
+1035,1,"Antiretroviral drugs given to people without HIV can prevent infection
+When given before possible exposures to HIV it is called pre-exposure prophylaxis (PrEP) and when given after an exposure it is called post-exposure prophylaxis (PEP).",1035
+1036,1,People can use PrEP or PEP when the risk of contracting HIV is high; people should seek advice from a clinician when thinking about using PrEP or PEP.,1036
+1037,1,"Treatment
+There is no cure for HIV infection.",1037
+1038,1,"It is treated with antiretroviral drugs, which stop the virus from replicating in the body.",1038
+1039,1,Current antiretroviral therapy (ART) does not cure HIV infection but allows a person’s immune system to get stronger.,1039
+1040,1,This helps them to fight other infections.,1040
+1041,1,"Currently, ART must be taken every day for the rest of a person’s life.",1041
+1042,1,ART lowers the amount of the virus in a person’s body.,1042
+1043,1,This stops symptoms and allows people to live full and healthy lives.,1043
+1044,1,People living with HIV who are taking ART and who have no evidence of virus in the blood will not spread the virus to their sexual partners.,1044
+1045,1,"Pregnant women with HIV should have access to, and take, ART as soon as possible.",1045
+1046,1,"This protects the health of the mother and will help prevent HIV transmission to the fetus before birth, or through breast milk.",1046
+1047,1,Advanced HIV disease remains a persistent problem in the HIV response.,1047
+1048,1,WHO is supporting countries to implement the advanced HIV disease package of care to reduce illness and death.,1048
+1049,1,"Newer HIV medicines and short course treatments for opportunistic infections like cryptococcal meningitis are being developed that may change the way people take ART and prevention medicines, including access to long-acting injectable formulations, such as lenacapavir which now has been approved by the FDA for HIV prevention.",1049
+1050,1,"Key facts
+Measles is a highly contagious, serious airborne disease caused by a virus that can lead to severe complications and death.",1050
+1051,1,Measles vaccination averted nearly 59 million deaths between 2000 and 2024.,1051
+1052,1,"Even though a safe and cost-effective vaccine is available, in 2024, there were an estimated 95 000 measles deaths globally, mostly among unvaccinated or under vaccinated children under the age of 5 years.",1052
+1053,1,"The proportion of children receiving a first dose of measles vaccine was 84% in 2024, slightly below the 2019 level of 86%.",1053
+1054,1,"Overview
+Measles is a highly contagious disease caused by a virus.",1054
+1055,1,"It spreads easily when an infected person breathes, coughs or sneezes.",1055
+1056,1,"It can cause severe disease, complications, and even death.",1056
+1057,1,Measles can affect anyone but is most common in children.,1057
+1058,1,Measles infects the respiratory tract and then spreads throughout the body.,1058
+1059,1,"Symptoms include a high fever, cough, runny nose and a rash all over the body.",1059
+1060,1,Being vaccinated is the best way to prevent getting sick with measles or spreading it to other people.,1060
+1061,1,The vaccine is safe and helps your body fight off the virus.,1061
+1062,1,"Before the introduction of measles vaccine in 1963 and widespread vaccination, major epidemics occurred approximately every two to three years and caused an estimated 2.",1062
+1063,1,6 million deaths each year.,1063
+1064,1,"An estimated 95 000 people died from measles in 2024 – mostly children under the age of five years, despite the availability of a safe and cost-effective vaccine.",1064
+1065,1,"Accelerated immunization activities by countries, WHO, the Measles & Rubella Partnership, and other international partners successfully prevented an estimated 59 million deaths between 2000 and 2024.",1065
+1066,1,Vaccination decreased an estimated measles deaths from 780 000 in 2000 to 95 000 in 2024 (1).,1066
+1067,1,"Signs and symptoms
+Symptoms of measles usually begin 10–14 days after exposure to the virus.",1067
+1068,1,A prominent rash is the most visible symptom.,1068
+1069,1,Early symptoms usually last 4–7 days.,1069
+1070,1,"They include:
+
+running nose
+cough
+red and watery eyes
+small white spots inside the cheeks.",1070
+1071,1,"The rash begins about 7–18 days after exposure, usually on the face and upper neck.",1071
+1072,1,"It spreads over about 3 days, eventually to the hands and feet.",1072
+1073,1,It usually lasts 5–6 days before fading.,1073
+1074,1,Most deaths from measles are from complications related to the disease.,1074
+1075,1,"Complications can include:
+
+blindness
+encephalitis (an infection causing brain swelling and potentially brain damage)
+severe diarrhoea and related dehydration
+ear infections
+severe breathing problems including pneumonia.",1075
+1076,1,"If a woman catches measles during pregnancy, this can be dangerous for the mother and can result in her baby being born prematurely with a low birth weight.",1076
+1077,1,Complications are most common in children under 5 years and adults over age 30.,1077
+1078,1,"They are more likely in children who are malnourished, especially those without enough vitamin A or with a weak immune system from HIV or other diseases.",1078
+1079,1,"Measles itself also weakens the immune system and can make the body “forget” how to protect itself against infections, leaving children extremely vulnerable.",1079
+1080,1,"Who is at risk?
+Any non-immune person (not vaccinated or vaccinated but did not develop immunity) can become infected.",1080
+1081,1,Unvaccinated young children and pregnant persons are at highest risk of severe measles complications.,1081
+1082,1,"Measles is still common, particularly in parts of Africa, the Middle East and Asia.",1082
+1083,1,The overwhelming majority of measles deaths occur in countries with low per capita incomes or weak health infrastructures that struggle to reach all children with immunization.,1083
+1084,1,Damaged health infrastructure and health services in countries experiencing or recovering from a natural disaster or conflict interrupt routine immunization and overcrowding in residential camps increases the risk of infection.,1084
+1085,1,Children with malnutrition or other causes of a weak immune system are at highest risk of death from measles.,1085
+1086,1,"Transmission
+Measles is one of the world’s most contagious diseases, spread by contact with infected nasal or throat secretions (coughing or sneezing) or breathing the air that was breathed by someone with measles.",1086
+1087,1,The virus remains active and contagious in the air or on infected surfaces for up to two hours.,1087
+1088,1,"For this reason, it is very infectious.",1088
+1089,1,One person infected by measles can generate up to 18 secondary infections.,1089
+1090,1,It can be transmitted by an infected person from four days prior to the onset of the rash to four days after the rash erupts.,1090
+1091,1,"Measles outbreaks can result in severe complications and deaths, especially among young, malnourished children.",1091
+1092,1,"In countries close to measles elimination, cases imported from other countries remain an important source of infection.",1092
+1093,1,"Treatment
+There is no specific treatment for measles.",1093
+1094,1,"Caregiving should focus on relieving symptoms, making the person comfortable and preventing complications.",1094
+1095,1,Drinking enough water and treatments for dehydration can replace fluids lost to diarrhoea or vomiting.,1095
+1096,1,Eating a healthy diet is also important.,1096
+1097,1,Doctors may use antibiotics to treat pneumonia and ear and eye infections.,1097
+1098,1,"All children or adults with measles should receive two doses of vitamin A supplements, given 24 hours apart.",1098
+1099,1,This restores low vitamin A levels that occur even in well-nourished children.,1099
+1100,1,It can help prevent eye damage and blindness.,1100
+1101,1,Vitamin A supplements may also reduce the number of measles deaths.,1101
+1102,1,"Prevention
+Community-wide vaccination is the most effective way to prevent measles.",1102
+1103,1,All children should be vaccinated against measles.,1103
+1104,1,"The vaccine is safe, effective and inexpensive.",1104
+1105,1,Children should receive two doses of the vaccine to ensure they are immune.,1105
+1106,1,The first dose is usually given at 9 months of age in countries where measles is common and 12–15 months in other countries.,1106
+1107,1,"A second dose should be given later in childhood, usually at 15–18 months.",1107
+1108,1,"The measles vaccine is given alone or often combined with vaccines for mumps, rubella and/or varicella.",1108
+1109,1,"Routine measles vaccination, combined with mass immunization campaigns in countries with high case rates are crucial for reducing global measles deaths.",1109
+1110,1,The measles vaccine has been in use for about 60 years and costs less than US$ 1 per child.,1110
+1111,1,The measles vaccine is also used in emergencies to stop outbreaks from spreading.,1111
+1112,1,"The risk of measles outbreaks is particularly high amongst refugees, who should be vaccinated as soon as possible.",1112
+1113,1,"Combining vaccines slightly increases the cost but allows for shared delivery and administration costs and importantly, adds the benefit of protection against rubella, the most common vaccine preventable infection that can infect babies in the womb.",1113
+1114,1,"In 2024, 76% of children received both doses of the measles vaccine, and about 84% of the world's children received one dose of measles vaccine by their first birthday.",1114
+1115,1,"Two doses of the vaccine are recommended to ensure immunity and prevent outbreaks, as not all children develop immunity from the first dose.",1115
+1116,1,"Approximately 30 million infants remained under-protected against measles in 2024, according to WHO and UNICEF estimates.",1116
+1117,1,Cholera is an acute diarrheal infection caused by consuming food or water contaminated with the bacterium Vibrio cholerae.,1117
+1118,1,It is a global public health threat and indicates inequity and lack of social and economic development.,1118
+1119,1,"Access to safe water, basic sanitation and hygiene is essential to prevent cholera and other waterborne diseases.",1119
+1120,1,Most people with cholera have mild or moderate diarrhoea and can be treated with oral rehydration solution (ORS).,1120
+1121,1,"However, the disease can progress rapidly, so starting treatment quickly is vital to save lives.",1121
+1122,1,"Patients with severe disease need intravenous fluids, ORS and antibiotics.",1122
+1123,1,Countries need strong epidemiological and laboratory surveillance to swiftly detect and monitor outbreaks and guide responses.,1123
+1124,1,"Symptoms 
+Cholera can cause severe acute watery diarrhoea, which can be fatal within hours if untreated.",1124
+1125,1,Most people infected with V.,1125
+1126,1,cholerae do not develop symptoms but can spread the bacteria through their faeces for 1–10 days.,1126
+1127,1,Symptoms appear 12 hours to 5 days after infection (2).,1127
+1128,1,Most people with the disease have mild or moderate symptoms.,1128
+1129,1,A minority of patients develop severe acute watery diarrhoea and life-threatening dehydration.,1129
+1130,1,"History 
+Cholera has been known for many centuries.",1130
+1131,1,"The first pandemic, or global epidemic, was recorded in the 19th century.",1131
+1132,1,"Since then, six pandemics have killed millions of people worldwide.",1132
+1133,1,The current (seventh) pandemic started in south Asia in 1961 and continues to affect populations globally.,1133
+1134,1,"Vibrio cholerae strains 
+Only two serogroups, O1 and O139, cause cholera outbreaks.",1134
+1135,1,cholerae O1 has caused all recent outbreaks.,1135
+1136,1,cholerae O139 caused outbreaks in Asia in the past but has recently only been identified in sporadic cases.,1136
+1137,1,There is no difference in the illness caused by the two serogroups.,1137
+1138,1,"Epidemiology, risk factors and disease burden 
+Cholera outbreaks occur regularly in some countries.",1138
+1139,1,"In others, they are less frequent, and it may be years between outbreaks.",1139
+1140,1,"Cholera is linked to limited access to safe water, basic sanitation facilities and poor hygiene practices.",1140
+1141,1,"This may be due to conflict, population displacement, climate events like cyclones, floods or drought, and lack of investment in maintaining and improving WASH services and infrastructure.",1141
+1142,1,The number of cholera cases reported to WHO has continued to rise in recent years.,1142
+1143,1,"In 2023, 535 321 cases and 4007 deaths were reported to WHO from 45 countries (3).",1143
+1144,1,The discrepancy between these figures and the numbers estimated by researchers is likely due to limited surveillance systems and cases not being recorded out of fear of repercussions for trade and tourism.,1144
+1145,1,"Prevention and control 
+Preventing and controlling cholera involves a combination of strengthening surveillance, improving water, sanitation and hygiene, increasing risk communication and community engagement, improving access to quality treatment and implementing oral cholera vaccine campaigns.",1145
+1146,1,"Surveillance
+Cholera surveillance should be part of an integrated disease surveillance system.",1146
+1147,1,"This includes timely reporting, data analysis, interpretation and sharing of information from local to global levels.",1147
+1148,1,"Rapid diagnostic tests (RDTs) are useful for early detection of probable cholera outbreaks, but confirmation requires laboratory testing by culture, seroagglutination or polymerase chain reaction (PCR).",1148
+1149,1,Countries at risk or affected by cholera should strengthen their surveillance systems according to the revised Global Taskforce on Cholera Control (GTFCC) recommendations to quickly detect and respond to outbreaks.,1149
+1150,1,"WASH interventions 
+The long-term solution for cholera control lies in economic development and universal access to safe drinking water, basic sanitation and good hygiene practices.",1150
+1151,1,"WASH interventions help prevent many waterborne illnesses, including cholera, and contribute to the Sustainable Development Goals.",1151
+1152,1,"During outbreaks, implementing WASH activities can reduce cholera transmission.",1152
+1153,1,"These activities include improving WASH in healthcare facilities, conducting water quality monitoring, distributing WASH kits to communities and promoting protective hygiene practices.",1153
+1154,1,"Treatment 
+Cholera is an easily treatable disease.",1154
+1155,1,Most people can be treated successfully with prompt ORS administration.,1155
+1156,1,Severely dehydrated patients are at risk of dying from dehydration and need rapid intravenous fluids.,1156
+1157,1,They also receive oral rehydration solution and antibiotics.,1157
+1158,1,Patients with underlying conditions or comorbidities may require additional care in specific treatment centres.,1158
+1159,1,The case fatality rate in treatment centres should remain below 1%.,1159
+1160,1,Community access to ORS is essential during a cholera outbreak.,1160
+1161,1,"Mass administration of antibiotics to prevent cholera (chemoprophylaxis) is not recommended, as it has no proven effect on the spread of cholera and may contribute to antimicrobial resistance.",1161
+1162,1,"Community engagement 
+Community engagement involves collaborating with people and communities to develop and implement programmes designed to address their needs.",1162
+1163,1,"Local culture, practices and beliefs are central to promoting protective practices, such as handwashing with soap and water, safe preparation and storage of food and water, and safe disposal of faeces.",1163
+1164,1,Funeral practices for individuals who die from cholera may need to be adapted to prevent infection among attendees.,1164
+1165,1,Communities should be involved in deciding the location of oral rehydration points (ORPs) and other community cholera control interventions.,1165
+1166,1,"Community engagement is essential for effectively communicating the potential risks and symptoms of cholera, precautions to take to avoid cholera, when and where to report cases, and the importance of seeking immediate treatment if symptoms appear.",1166
+1167,1,"Oral cholera vaccines
+Currently, three WHO pre-qualified oral cholera vaccines (OCV) are available: Dukoral®, Euvichol-Plus®, and Euvichol-S®.",1167
+1168,1,All require two doses to fully protect an adult.,1168
+1169,1,One dose of Euvichol-Plus® or Euvichol-S® provides good short-term protection.,1169
+1170,1,"Euvichol-S®, pre-qualified by WHO in 2024, is a simplified version of Euvichol-Plus®.",1170
+1171,1,The Shancol vaccine is no longer produced.,1171
+1172,1,Euvichol-Plus® and Euvichol-S® do not require a buffer solution and can be given to anyone over one year old.,1172
+1173,1,"These are the only vaccines currently available for mass vaccination campaigns through the Global OCV Stockpile, supported by Gavi, the Vaccine Alliance.",1173
+1174,1,"Since October 2022, due to an ongoing global shortage of vaccines, and with the acceptance of the Strategic Advisory Group of Experts SAGE), only one-dose vaccine regimens are being used.",1174
+1175,1,OCV is safe during pregnancy.,1175
+1176,1,"More information on WHO's policy on OCV
+
+Cholera kits 
+WHO has developed six cholera kits to support the investigation and confirmation of cholera outbreaks and the treatment of patients:
+
+1 for investigation
+1 with supplies for culture confirmation in a laboratory
+3 for treatment at the community, peripheral and central levels
+1 support kit with logistical materials, including solar lamps, fencing, water bladders and taps.",1176
+1177,1,Each treatment kit provides enough materials to treat 100 patients.,1177
+1178,1,"More information about cholera kits
+
+Global Task Force on Cholera Control
+The Global Task Force on Cholera Control (GTFCC) is a partnership of governmental and nongovernmental organizations, UN agencies and academic institutions with a common mission to reduce the global cholera burden.",1178
+1179,1,The GTFCC Secretariat is hosted by WHO.,1179
+1180,1,"GTFCC partners work to:
+
+develop global strategies for cholera prevention and control;
+support countries in long-term control or elimination of cholera through the development of national cholera plans (NCPs);
+develop and disseminate technical guidelines and operational manuals;
+support a research agenda to evaluate innovative approaches to cholera prevention and control in affected countries; and
+increase the visibility of cholera as an important global public health problem.",1180
+1181,1,"More about the GTFCC core activities and progress
+
+Ending cholera: a roadmap to 2030
+In 2017, the GTFCC published the Ending cholera: a global roadmap to 2030 strategy.",1181
+1182,1,"It aims to reduce cholera deaths by 90% and eliminate cholera in as many as 20 countries by 2030 through:
+
+early detection and containment of outbreaks through rapid multisectoral response;
+a focus on cholera priority areas for multisectoral interventions (PAMIs) – the relatively small areas most heavily affected by cholera; and
+an effective coordination mechanism for technical support, advocacy, resource mobilization, and partnership at local and global levels.",1182
+1183,1,The strategy was endorsed at the Seventy-first World Health Assembly in 2018.,1183

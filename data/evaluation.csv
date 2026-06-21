@@ -1,0 +1,71 @@
+﻿evaluation_id,response_id,factuality_score,consistency_score,notes,response_timestamp
+1,1,0.97,0.94,Supported by WHO guideline.,01-05-2026 10:01
+2,2,0.95,0.92,Consistent with CDC recommendations.,01-05-2026 10:06
+3,3,0.93,0.91,Matches NIH diabetes management guidance.,01-05-2026 10:11
+4,4,0.96,0.93,Aligned with WHO malaria information.,01-05-2026 10:16
+5,5,0.9,0.88,Side effects verified from CDC advisory.,01-05-2026 10:21
+6,6,0.94,0.91,Supported by asthma treatment guidelines.,01-05-2026 10:26
+7,7,0.97,0.95,Aligned with tuberculosis prevention guidance.,01-05-2026 10:31
+8,8,0.93,0.9,Consistent with cardiovascular studies.,01-05-2026 10:36
+9,9,0.92,0.89,Supported by nutrition and obesity research.,01-05-2026 10:41
+10,10,0.98,0.96,Matches stroke emergency recommendations.,01-05-2026 10:46
+11,11,0.9,0.88,Treatment information verified from CDC sources.,01-05-2026 10:51
+12,12,0.89,0.87,Mental health disorders verified from WHO reports.,01-05-2026 10:56
+13,13,0.96,0.94,Public health benefits confirmed through vaccine studies.,01-05-2026 11:01
+14,14,0.88,0.85,Hypertension symptoms consistent with clinical guidance.,01-05-2026 11:06
+15,15,0.93,0.91,Nutrition recommendations align with WHO guidance.,01-05-2026 11:11
+16,16,0.91,0.87,Response aligns with infectious disease guidelines but lacks geographic specificity.,01-05-2026 11:16
+17,17,0.86,0.82,Stress-related hypertension explanation is medically reasonable but somewhat generalized.,01-05-2026 11:21
+18,18,0.95,0.93,Asthma symptom explanation is strongly supported by respiratory health references.,01-05-2026 11:26
+19,19,0.94,0.91,Kidney complications of diabetes are accurately described.,01-05-2026 11:31
+20,20,0.78,0.73,Possible causes mentioned but answer lacks detailed diagnostic context.,01-05-2026 11:36
+21,21,0.74,0.69,Chest pain causes are broad and may require more precise clinical differentiation.,01-05-2026 11:41
+22,22,0.96,0.94,Smoking and asthma relationship is strongly evidence-based.,01-05-2026 11:46
+23,23,0.8,0.76,Fatigue causes are plausible but highly non-specific.,01-05-2026 11:51
+24,24,0.95,0.93,Obesity-diabetes relationship is medically accurate and well grounded.,01-05-2026 11:56
+25,25,0.98,0.97,Hypertension complications are correctly summarized.,01-05-2026 12:01
+26,26,0.71,0.67,Persistent fever explanation is incomplete and may require additional context.,01-05-2026 12:06
+27,27,0.84,0.8,Night breathlessness causes are relevant but not exhaustive.,01-05-2026 12:11
+28,28,0.92,0.89,Sleep and mental health relationship is consistent with public health guidance.,01-05-2026 12:16
+29,29,0.79,0.74,Chest pain is medically reasonable but lacks prioritization of severe causes.,01-05-2026 12:21
+30,30,0.77,0.71,Hypertension-related dizziness explanation is partially grounded.,01-05-2026 12:26
+31,31,0.89,0.86,Travel-related fever causes are appropriately identified.,01-05-2026 12:31
+32,32,0.81,0.76,Chest pain during exercise requires stronger differentiation between cardiac and muscular causes.,01-05-2026 12:36
+33,33,0.93,0.89,Dengue-related headache symptoms are medically accurate.,01-05-2026 12:41
+34,34,0.84,0.8,Stress and blood sugar explanation is reasonable but simplified.,01-05-2026 12:46
+35,35,0.72,0.69,Sudden dizziness causes are broad and may require clinical evaluation.,01-05-2026 12:51
+36,36,0.95,0.94,Long-term hypertension risks are accurately represented.,01-05-2026 12:56
+37,37,0.88,0.84,Persistent cough recommendation aligns with respiratory disease guidelines.,01-05-2026 13:01
+38,38,0.86,0.82,Excessive thirst causes are medically plausible.,01-05-2026 13:06
+39,39,0.97,0.95,Severe asthma risk explanation is strongly grounded.,01-05-2026 13:11
+40,40,0.83,0.78,Night breathing difficulty explanation is partially generalized.,01-05-2026 13:16
+41,41,0.96,0.95,Immune response to vaccination is accurately explained.,01-05-2026 13:21
+42,42,0.94,0.92,Diabetes-related eye complications are medically accurate.,01-05-2026 13:26
+43,43,0.79,0.75,Low blood pressure symptoms are correct but not comprehensive.,01-05-2026 13:31
+44,44,0.76,0.71,Rapid heartbeat causes are broad and require further evaluation context.,01-05-2026 13:36
+45,45,0.82,0.78,Chest tightness causes are plausible but somewhat generic.,01-05-2026 13:41
+46,46,0.99,0.97,Smoking and lung cancer association is strongly evidence-based.,01-05-2026 13:46
+47,47,0.81,0.76,Weight loss causes are medically relevant but highly broad.,01-05-2026 13:51
+48,48,0.92,0.89,Anxiety attack symptoms are accurately described.,01-05-2026 13:56
+49,49,0.96,0.94,Heart health recommendations align with cardiovascular guidelines.,01-05-2026 14:01
+50,50,0.91,0.88,High blood sugar explanation is medically consistent.,01-05-2026 14:06
+51,51,0.84,0.81,Obesity and respiratory strain relationship is plausible.,01-05-2026 14:11
+52,52,0.9,0.87,Persistent cough and fever explanation is medically reasonable.,01-05-2026 14:16
+53,53,0.95,0.93,Dietary hypertension recommendations are evidence-based.,01-05-2026 14:21
+54,54,0.88,0.84,Stress-related asthma trigger explanation is consistent with respiratory studies.,01-05-2026 14:26
+55,55,0.92,0.89,Pneumonia-related chest pain explanation is medically grounded.,01-05-2026 14:31
+56,56,0.87,0.82,Mental stress and cardiovascular effects are reasonably explained.,01-05-2026 14:36
+57,57,0.98,0.96,Untreated diabetes complications are strongly evidence-supported.,01-05-2026 14:41
+58,58,0.82,0.78,Shortness of breath causes are broad and require more clinical specificity.,01-05-2026 14:46
+59,59,0.93,0.91,High cholesterol and stroke risk relationship is accurate.,01-05-2026 14:51
+60,60,0.78,0.74,Weakness after fever explanation is plausible but generalized.,01-05-2026 14:56
+61,61,0.89,0.86,Exercise and obesity reduction relationship is medically accurate.,01-05-2026 15:01
+62,62,0.84,0.8,Dehydration-related heart rate increase is correctly explained.,01-05-2026 15:06
+63,63,0.98,0.97,Severe malaria symptoms are strongly supported by WHO guidance.,01-05-2026 15:11
+64,64,0.87,0.84,Anxiety attack explanation is psychologically consistent.,01-05-2026 15:16
+65,65,0.95,0.93,Smoking-related hypertension risk is evidence-based.,01-05-2026 15:21
+66,66,0.94,0.91,Early diabetes symptoms are medically accurate.,01-05-2026 15:26
+67,67,0.97,0.95,Dengue transmission pathway is correctly described.,01-05-2026 15:31
+68,68,0.79,0.75,Fatigue causes are broad and partially non-specific.,01-05-2026 15:36
+69,69,0.96,0.94,Severe asthma symptoms are clinically accurate.,01-05-2026 15:41
+70,70,0.88,0.84,Sleep deprivation and blood pressure relationship is reasonably explained.,01-05-2026 15:46
