@@ -1,3 +1,9 @@
+streamlit
 pandas
+numpy
+pyodbc
 sentence-transformers
+scikit-learn
+requests
 torch
+torchvision
