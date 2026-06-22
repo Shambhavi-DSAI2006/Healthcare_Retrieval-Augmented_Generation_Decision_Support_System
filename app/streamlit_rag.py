@@ -15,6 +15,20 @@ from sklearn.metrics.pairwise import cosine_similarity
 SERVER = r"YASHU-PAVILION\SQLEXPRESS"
 DATABASE = "healthcare_rag"
 
+import psycopg2
+
+@st.cache_resource
+def get_pg_connection():
+
+    return psycopg2.connect(
+        host="aws-0-eu-west-1.pooler.supabase.com",
+        database="postgres",
+        user="postgres.cenppxbhawclqebbpojr",
+        password="Healthcare_rag_18",
+        port="6543",
+        sslmode="require"
+    )
+
 # --------------------------------------------------
 # DATABASE CONNECTION
 # --------------------------------------------------
@@ -182,6 +196,7 @@ def load_model():
 # LOAD EMBEDDINGS FROM SQL
 # --------------------------------------------------
 
+
 @st.cache_data
 def load_embeddings():
 
@@ -219,6 +234,7 @@ def load_embeddings():
 
     return embeddings_df, chunks_df, embedding_matrix
 
+
 # --------------------------------------------------
 # RETRIEVAL FUNCTION
 # --------------------------------------------------
@@ -227,22 +243,44 @@ def semantic_search(question):
 
     model = load_model()
 
-    embeddings_df, chunks_df, embedding_matrix = load_embeddings()
+    query_embedding = model.encode(question).tolist()
 
-    query_embedding = model.encode([question])
+    pg_conn = get_pg_connection()
 
-    similarities = cosine_similarity(
-        query_embedding,
-        embedding_matrix
-    )[0]
+    pg_cursor = pg_conn.cursor()
 
-    top_indices = np.argsort(similarities)[::-1][:5]
+    pg_cursor.execute("""
+        SELECT
+            chunk_id,
+            1 - (vector <=> %s::vector) AS similarity
+        FROM embedding_pg
+        ORDER BY vector <=> %s::vector
+        LIMIT 5
+    """, (str(query_embedding), str(query_embedding)))
+
+    top_chunks = pg_cursor.fetchall()
+
+    conn = get_connection()
+
+    chunks_df = pd.read_sql("""
+        SELECT
+            c.chunk_id,
+            c.chunk_text,
+            s.section_title,
+            d.title AS document_title,
+            src.source_name
+        FROM chunk c
+        JOIN section s
+            ON c.section_id = s.section_id
+        JOIN document d
+            ON s.document_id = d.document_id
+        JOIN source src
+            ON d.source_id = src.source_id
+    """, conn)
 
     results = []
 
-    for idx in top_indices:
-
-        chunk_id = embeddings_df.iloc[idx]["chunk_id"]
+    for chunk_id, similarity in top_chunks:
 
         chunk_row = chunks_df[
             chunks_df["chunk_id"] == chunk_id
@@ -256,7 +294,7 @@ def semantic_search(question):
                 "section_title": chunk_row.iloc[0]["section_title"],
                 "document_title": chunk_row.iloc[0]["document_title"],
                 "source_name": chunk_row.iloc[0]["source_name"],
-                "score": float(similarities[idx])
+                "score": float(similarity)
             })
 
     return results
