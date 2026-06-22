@@ -1,6 +1,6 @@
 USE healthcare_rag;
 GO
-
+-- FINAL UPDATED PERFORMANCE VERSION
 --------------------------------------------------
 -- MILESTONE 3 PERFORMANCE TESTING
 --------------------------------------------------
