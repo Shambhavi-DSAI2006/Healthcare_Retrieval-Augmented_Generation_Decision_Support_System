@@ -7,3 +7,5 @@ scikit-learn
 requests
 torch
 torchvision
+psycopg2-binary
+pgvector
