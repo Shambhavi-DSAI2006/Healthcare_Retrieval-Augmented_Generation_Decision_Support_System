@@ -56,7 +56,7 @@ FROM evaluation;
 
 SELECT
     COUNT(*) AS total_queries
-FROM query;
+FROM user_query;
 
 
 -- Query 4: Average confidence score of generated responses
