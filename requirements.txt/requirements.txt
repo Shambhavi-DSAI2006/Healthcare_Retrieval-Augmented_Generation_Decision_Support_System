@@ -1,11 +1,15 @@
 streamlit
 pandas
 numpy
-pyodbc
 sentence-transformers
 scikit-learn
 requests
 torch
-torchvision
 psycopg2-binary
 pgvector
+python-dotenv
+langchain
+langgraph
+langchain-groq
+rank-bm25
+streamlit-geolocation
